@@ -19,22 +19,21 @@ back_squat
 emom 10
     3 push_press @ 50 ~ 63
 
-every 3 min for 21 min
-    upto @ 63
-    clean_deadlift + hang_power_clean + power_jerk
-    clean_deadlift + clean + jerk  
-    
-3 rounds
-12 hyper_extensions
-3 dips
+every 3 min for 21 min 
+    upto @ 67
+    paused_clean + clean + power_jerk
+    paused_clean + clean + jerk
+
+21 rowing with 8 kettlebell_swing
 
 —————————————————————————————————————————————————————————————
 
-emom 20
-    2 snatch @ upto 57
+every 3 min for 21 min
+    upto @ 54
+    paused_snatch + snatch X2
     
-3 rounds
-8 sots_press
-8 gakk_squats
+3*8 gakk_squats
 
-21 rowing with 8 devils_press
+3 rounds
+12 hyper_extensions
+3 dips

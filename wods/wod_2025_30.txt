@@ -1,0 +1,42 @@
+power_snatch + ohs
+    2+2 @ 45
+    2+2 @ 47
+    1+1 @ 50 X3
+
+snatch
+    4*2 @ 50, 53, 55, 58 
+
+front_squat
+    4*3 @ 70, 75, 80, 84
+
+3 rounds
+12/12 seated_kettlebell_press
+8 seated_box_jumps
+20 russian_twists
+
+—————————————————————————————————————————————————————————————
+
+clean + front_squat + jerk
+    2+1+2 @ 58
+    2+1+2 @ 63
+    1+1+1 @ 67 X2
+    1+1+1 @ 72 X2
+
+ergo
+3 rounds
+    280m skierg
+    280m rowerg
+    1000m bikerg 
+
+—————————————————————————————————————————————————————————————
+
+every 2 min for 20 min
+    snatch_balance + ohs
+    2 + 1 @ 50 ~ 57
+
+snatch_pull
+    5*5 @ 70
+
+3 rounds
+15 tuck_ups
+L/R side_planks 40sec 
