@@ -17,7 +17,7 @@ back_squat
 —————————————————————————————————————————————————————————————
 
 emom 10
-    3 push_press @ 50 ~ 63
+    2 push_press @ 50 ~ 63
 
 every 3 min for 21 min 
     upto @ 67
