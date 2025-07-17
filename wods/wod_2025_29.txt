@@ -24,7 +24,7 @@ every 3 min for 21 min
     paused_clean + clean + power_jerk
     paused_clean + clean + jerk
 
-21 rowing with 8 kettlebell_swing
+21 rowing with 30 double_unders
 
 —————————————————————————————————————————————————————————————
 
