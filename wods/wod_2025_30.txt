@@ -1,6 +1,6 @@
 every 2 min for 10 min
-    snatch_balance + ohs
-    2 + 1 @ 50 ~ 57
+    snatch_push_press + snatch_balance + ohs
+    2 + 1 + 1 @ 50~54
 
 paused_power_snatch + snatch 
     5*2 @ 50~54
@@ -43,4 +43,4 @@ snatch_pull
 
 3 rounds
 15 tuck_ups
-L/R side_planks 40sec 
+L/R side_planks 40sec
