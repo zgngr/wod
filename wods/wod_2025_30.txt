@@ -1,10 +1,9 @@
-power_snatch + ohs
-    2+2 @ 45
-    2+2 @ 47
-    1+1 @ 50 X3
+every 2 min for 10 min
+    snatch_balance + ohs
+    2 + 1 @ 50 ~ 57
 
-snatch
-    4*2 @ 50, 53, 55, 58 
+paused_power_snatch + snatch 
+    5*2 @ 50~54
 
 front_squat
     4*3 @ 70, 75, 80, 84
@@ -16,10 +15,13 @@ front_squat
 
 —————————————————————————————————————————————————————————————
 
+press_in_split
+    4*3 @ 40
+
 clean + front_squat + jerk
     2+1+2 @ 58
     2+1+2 @ 63
-    1+1+1 @ 67 X2
+    2+1+1 @ 67 X2
     1+1+1 @ 72 X2
 
 ergo
@@ -30,9 +32,11 @@ ergo
 
 —————————————————————————————————————————————————————————————
 
-every 2 min for 20 min
-    snatch_balance + ohs
-    2 + 1 @ 50 ~ 57
+snatch
+    4*2 @ 50, 53, 55, 58
+
+sots_press
+    3*8 @ 30
 
 snatch_pull
     5*5 @ 70
