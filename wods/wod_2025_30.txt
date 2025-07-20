@@ -1,21 +1,21 @@
 paused_snatch + snatch + ohs
-    4*2 @ 50, 54, 57, 55
+    2*2 @ 50
 
-sots_press
-    3*8 @ 30
+snatch + ohs
+    4*2 @ 54, 54, 57, 57
 
 front_squat
     4*3 @ 70, 75, 80, 84
 
 3 rounds
-12/12 seated_kettlebell_press
+10 kettlebell_high_pull
+10 chicken_jumps
 20 russian_twists
-8 seated_box_jumps
 
 —————————————————————————————————————————————————————————————
 
 press_in_split
-    4*3 @ 40
+    5*2 @ 40
 
 clean + front_squat + jerk
     2+1+2 @ 58
@@ -41,5 +41,6 @@ snatch_pull
     5*5 @ 70
 
 3 rounds
-15 tuck_ups
+10 T2B
+10/10 korean_jumps
 L/R side_planks 40sec
