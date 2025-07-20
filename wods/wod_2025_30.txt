@@ -21,7 +21,7 @@ clean + front_squat + jerk
     2+1+2 @ 58
     2+1+2 @ 63
     2+1+1 @ 67 X2
-    1+1+1 @ 72 X2
+    1+1+1 @ 73 X2
 
 ergo
 3 rounds
