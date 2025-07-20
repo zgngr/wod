@@ -1,9 +1,8 @@
-every 2 min for 10 min
-    snatch_push_press + snatch_balance + ohs
-    2 + 1 + 1 @ 50~54
+paused_power_snatch + ohs
+    3*2 @ 44, 47, 50
 
-paused_power_snatch + snatch 
-    5*2 @ 50~54
+snatch + ohs
+    3*2 @ 50, 54, 57
 
 front_squat
     4*3 @ 70, 75, 80, 84
