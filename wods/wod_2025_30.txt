@@ -5,7 +5,7 @@ snatch + ohs
     4*2 @ 50, 54, 54, 57
 
 front_squat
-    4*3 @ 70, 75, 80, 84
+    4*3 @ 74, 78, 82, 86
 
 3 rounds
 10 kettlebell_high_pull
@@ -47,4 +47,7 @@ snatch_pull
 
 —————————————————————————————————————————————————————————————
 
-Notes: 85% insensity
+Notes: 
+
+* 85% insensity for clean complex.
+* relative intensity for front_squat is 95%~110% at 3 reps
