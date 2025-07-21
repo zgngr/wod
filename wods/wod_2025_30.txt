@@ -1,8 +1,8 @@
-paused_snatch + snatch + ohs
+paused_snatch + snatch
     2*2 @ 50
 
 snatch + ohs
-    4*2 @ 54, 54, 57, 57
+    4*2 @ 50, 54, 54, 57
 
 front_squat
     4*3 @ 70, 75, 80, 84
@@ -44,3 +44,7 @@ snatch_pull
 10 T2B
 10/10 korean_jumps
 L/R side_planks 40sec
+
+—————————————————————————————————————————————————————————————
+
+Notes: 85% insensity
