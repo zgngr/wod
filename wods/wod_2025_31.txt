@@ -1,53 +1,45 @@
-paused_snatch + snatch
-    2*2 @ 50
+every 3 min for 21 min
+    upto @ 57
+    paused_snatch + ohs
+    snatch + ohs
 
-snatch + ohs
-    4*2 @ 50, 54, 54, 57
+paused_back_squat
+    4*3 @ 90
 
-front_squat
-    4*3 @ 74, 78, 82, 86
+sots_press
+    3*7 @ 30
 
 3 rounds
-10 kettlebell_high_pull
-10 chicken_jumps
-20 russian_twists
+10 barbell_jumps
+20 barbell_bends
 
 —————————————————————————————————————————————————————————————
 
-press_in_split
-    5*2 @ 40
+power_clean + hang_clean + push_press
+    1 + 1 + 1 @ 58 X3
 
-clean + front_squat + jerk
-    2+1+2 @ 58
-    2+1+2 @ 63
-    2+1+1 @ 67 X2
-    1+1+1 @ 73 X2
-
+clean + jerk
+    2 + 2 @ 63 X2
+    1 + 1 @ 67 X3
+    
 ergo
-3 rounds
-    280m skierg
-    280m rowerg
-    1000m bikerg 
+21 rowing with 8 deficit_push_ups
 
 —————————————————————————————————————————————————————————————
 
 snatch + ohs
     4*2 @ 50, 53, 55, 58
 
-banded_press
-    3*7 @ 30
-
-snatch_pull
-    4*5 @ 70
+front_squat
+    3*7 @ 63
 
 3 rounds
-5 pull_ups
-6 broad_jumps
-40sec L/R side_planks 
+10 good_mornings
+10 high_box_jumps
+20 flutter_kicks
 
 —————————————————————————————————————————————————————————————
 
 Notes: 
 
-* 85% insensity for clean complex.
-* relative intensity for front_squat is 95%~110% at 3 reps
+* 80% insensity for clean complex.
