@@ -34,8 +34,8 @@ ergo
 snatch + ohs
     4*2 @ 50, 53, 55, 58
 
-banded_press
-    3*7 @ 30
+clean + jerk
+		3*3 @ 58, 63, 67
 
 snatch_pull
     4*5 @ 70
