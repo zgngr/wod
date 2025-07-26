@@ -2,9 +2,6 @@ every 2 min for 18 min
     upto @ 54
     snatch_pull + snatch + ohs
 
-sots_press
-    3*7 @ 30
-
 paused_back_squat
     4*3 @ 90
 
