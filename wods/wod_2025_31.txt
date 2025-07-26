@@ -1,13 +1,12 @@
-every 3 min for 21 min
-    upto @ 57
-    paused_snatch + ohs
-    snatch + ohs
-
-paused_back_squat
-    4*3 @ 90
+every 2 min for 18 min
+    upto @ 54
+    snatch_pull + snatch + ohs
 
 sots_press
     3*7 @ 30
+
+paused_back_squat
+    4*3 @ 90
 
 3 rounds
 10 barbell_jumps
@@ -15,20 +14,22 @@ sots_press
 
 —————————————————————————————————————————————————————————————
 
-power_clean + hang_clean + push_press
-    1 + 1 + 1 @ 58 X3
+emom 10
+    2 split_jerk @ 50 ~ 63
 
-clean + jerk
-    2 + 2 @ 63 X2
-    1 + 1 @ 67 X3
+clean + clean + jerk 
+    @ 58, 63, 67
     
 ergo
 21 rowing with 8 deficit_push_ups
 
 —————————————————————————————————————————————————————————————
 
-snatch + ohs
+snatch
     4*2 @ 50, 53, 55, 58
+
+clean + jerk
+    3*2 @ 58, 63, 67
 
 front_squat
     3*7 @ 63

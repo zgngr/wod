@@ -1,22 +1,17 @@
-every 3 min for 21 min
-    upto @ 57
-    paused_snatch + ohs
-    snatch + ohs
+power_snatch + ohs
+    1 + 2 @ 44 X2
+    1 + 2 @ 47 X2
+    1 + 2 @ 50 X2
+
+snatch
+    3*2 @ 50, 53, 55
 
 back_squat
     4*5 @ 100
 
 —————————————————————————————————————————————————————————————
-
-power_clean + push_press + push_jerk
-
+power_clean + power_jerk
 —————————————————————————————————————————————————————————————
-
-snatch
-    3*2 @ 53, 55, 58
-
-snatch_push_press + ohs
-    1 + 2
 
 —————————————————————————————————————————————————————————————
 
