@@ -22,10 +22,7 @@ paused_clean + clean + jerk
     1+1+1 @ 58 X2
 
 ergo
-3 rounds
-    280m skierg
-    280m rowerg
-    1000m bikerg 
+21 rowing with 8 wall_balls
 
 —————————————————————————————————————————————————————————————
 
