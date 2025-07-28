@@ -41,5 +41,3 @@ clean + jerk
 —————————————————————————————————————————————————————————————
 
 Notes: 
-
-* 80% insensity for clean complex.
