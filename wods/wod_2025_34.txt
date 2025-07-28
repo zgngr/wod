@@ -1,45 +1,48 @@
-every 2 min for 18 min
-    upto @ 54
-    snatch_pull + snatch + ohs
+emom 10
+    2 snatch_push_press @ 50 ~ 63
 
-sots_press
-    3*7 @ 30
+paused_snatch + snatch
+    3*2 @ 50, 52, 54
 
-paused_back_squat
-    4*3 @ 90
+back_squat
+    3*7 @ 75
 
 3 rounds
-10 barbell_jumps
-20 barbell_bends
+10 hyper_extensions
+16 korean_jumps
 
 —————————————————————————————————————————————————————————————
 
 emom 10
-    2 split_jerk @ 50 ~ 63
+    3 seated_barbell_press @ 40 ~ 45
 
-clean_pull + clean + front_squat
+paused_clean + clean + jerk
     1+1+1 @ 58 X2
-    1+1+1 @ 63 X3
-    1+1+1 @ 67 X2
-    
+    1+1+1 @ 58 X2
+    1+1+1 @ 58 X2
+
 ergo
-21 rowing with 8 deficit_push_ups
+3 rounds
+    280m skierg
+    280m rowerg
+    1000m bikerg 
 
 —————————————————————————————————————————————————————————————
 
 snatch
-    4*2 @ 50, 53, 55, 58
+    2*2 @ 52, 54
 
 clean + jerk
-    4*2 @ 58, 63, 67, 72
+    2*2 @ 58, 63
+
+front_squat
+    3*7 @ 63
 
 3 rounds
-10 good_mornings
-10 high_box_jumps
-20 flutter_kicks
+8 high_box_jumps
+12 tuck_ups
+40 sec dead_hang
 
 —————————————————————————————————————————————————————————————
 
-Notes: 
-
-* 80% insensity for clean complex.
+Notes: DELOAD
