@@ -1,6 +1,6 @@
 emom 10
-    2 snatch_push_press @ 50 ~ 63
-
+    3 banded_snatch_press @ 30
+    
 paused_snatch + snatch
     3*2 @ 50, 52, 54
 

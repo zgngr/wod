@@ -1,7 +1,5 @@
-power_snatch + ohs
-    1 + 2 @ 44 X2
-    1 + 2 @ 47 X2
-    1 + 2 @ 50 X2
+emom 10
+    2 snatch_push_press @ 50 ~ 63
 
 snatch
     3*2 @ 50, 53, 55
