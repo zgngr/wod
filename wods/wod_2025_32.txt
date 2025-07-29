@@ -1,11 +1,11 @@
 emom 10
     2 snatch_push_press @ 50 ~ 63
 
-snatch
+paused_snatch + snatch
     3*2 @ 50, 53, 55
 
-back_squat
-    4*5 @ 100
+front_squat
+    4*3 @ 74, 78, 82, 86
 
 3 rounds
 5 chin_ups

@@ -33,6 +33,9 @@ snatch
 clean + jerk
     4*2 @ 58, 63, 67, 72
 
+back_squat
+    4*5 @ 100
+
 3 rounds
 10 good_mornings
 10 high_box_jumps
