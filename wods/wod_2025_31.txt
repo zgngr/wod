@@ -17,11 +17,14 @@ paused_back_squat
 emom 10
     2 split_jerk @ 50 ~ 63
 
-clean_pull + clean + front_squat
+clean_pull + clean + jerk
     1+1+1 @ 58 X2
     1+1+1 @ 63 X3
     1+1+1 @ 67 X2
-    
+
+front_squat
+    4*3 @ 74, 78, 82, 86
+
 ergo
 21 rowing with 8 deficit_push_ups
 
@@ -32,9 +35,6 @@ snatch
 
 clean + jerk
     4*2 @ 58, 63, 67, 72
-
-back_squat
-    4*5 @ 100
 
 3 rounds
 10 good_mornings
