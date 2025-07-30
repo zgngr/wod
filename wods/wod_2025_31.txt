@@ -26,7 +26,7 @@ front_squat
     4*3 @ 74, 78, 82, 86
 
 ergo
-21 rowing with 8 deficit_push_ups
+21 rowing with 8 T2B
 
 —————————————————————————————————————————————————————————————
 
@@ -37,7 +37,7 @@ clean + jerk
     4*2 @ 58, 63, 67, 72
 
 3 rounds
-8 T2B
+10 deficit_push_ups
 10 good_mornings
 10 high_box_jumps
 
