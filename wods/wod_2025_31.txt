@@ -21,25 +21,25 @@ clean_pull + clean + jerk
     1+1+1 @ 58 X2
     1+1+1 @ 63 X3
     1+1+1 @ 67 X2
+    1+1+1 @ 72 X1
+
+21-18-15..3 burpee after each set 8 T2B
+
+—————————————————————————————————————————————————————————————
+
+emom 10
+    2 snatch_push_press @ 50 ~ 63
+
+snatch
+    4*3 @ 50, 53, 55, 58
 
 front_squat
     4*3 @ 74, 78, 82, 86
 
-ergo
-21 rowing with 8 T2B
-
-—————————————————————————————————————————————————————————————
-
-snatch
-    4*2 @ 50, 53, 55, 58
-
-clean + jerk
-    4*2 @ 58, 63, 67, 72
-
 3 rounds
-10 deficit_push_ups
-10 good_mornings
-10 high_box_jumps
+8 deficit_push_ups
+8 good_mornings
+8 high_box_jumps
 
 —————————————————————————————————————————————————————————————
 

@@ -1,11 +1,9 @@
-emom 10
-    2 snatch_push_press @ 50 ~ 63
+every 1:30 min for 18 min
+    upto @ 55
+    paused_snatch + snatch + ohs
 
-paused_snatch + snatch
-    3*2 @ 50, 53, 55
-
-back_squat
-    4*5 @ 100
+front_squat
+    3*7 @ 63
 
 3 rounds
 5 chin_ups
@@ -14,10 +12,13 @@ back_squat
 
 —————————————————————————————————————————————————————————————
 
-power_clean + push_press + power_jerk
+power_clean + jerk
     1+1+1 @ 58 X2
     1+1+1 @ 63 X3
     1+1+1 @ 67 X1
+
+clean
+    4*2 @ 63, 67, 72, 76
 
 ergo
 3 rounds
@@ -28,14 +29,23 @@ ergo
 —————————————————————————————————————————————————————————————
 
 snatch
-    4*2 @ 53, 55, 58, 60
-
-clean + jerk
-    4*2 @ 58, 63, 67, 72
+    2*1 @ 48
+    1  @ 51
+    2*1 @ 54
+    1 @ 57
+    1 @ 60
+    1 @ 62
 
 sots_press
     3*7 @ 30
 
+back_squat
+    4*5 @ 100
+
+3 rounds
+12 split_squat_jumps
+40sec dead_hang
+20 russian_twists
 —————————————————————————————————————————————————————————————
 
 Notes: 
