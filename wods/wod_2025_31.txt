@@ -37,9 +37,9 @@ clean + jerk
     4*2 @ 58, 63, 67, 72
 
 3 rounds
+8 T2B
 10 good_mornings
 10 high_box_jumps
-20 flutter_kicks
 
 —————————————————————————————————————————————————————————————
 
