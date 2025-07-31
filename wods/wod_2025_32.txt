@@ -1,31 +1,28 @@
-every 1:30 min for 18 min
-    upto @ 55
-    paused_snatch + snatch + ohs
+emom 10
+    2 snatch_push_press @ 50 ~ 63
+
+paused_snatch + snatch
+    3*3 @ 50, 53, 55
 
 front_squat
     3*7 @ 63
 
 3 rounds
-5 chin_ups
-10 chicken_jumps
-15 half-vups
+8 good_mornings
+8 high_box_jumps
 
 —————————————————————————————————————————————————————————————
+emom 10
+    hang_power_clean + power_jerk @ 50 ~ 63
 
-power_clean + jerk
-    1+1+1 @ 58 X2
-    1+1+1 @ 63 X3
-    1+1+1 @ 67 X1
-
-clean
+clean + jerk
     4*2 @ 63, 67, 72, 76
 
 ergo
 3 rounds
-    280m skierg
-    280m rowerg
-    1000m bikerg 
-
+    200m SkiErg
+    400m RowErg
+    1200m BikeErg
 —————————————————————————————————————————————————————————————
 
 snatch
@@ -36,18 +33,13 @@ snatch
     1 @ 60
     1 @ 62
 
-sots_press
-    3*7 @ 30
-
 back_squat
-    4*5 @ 100
+    4*3 @ 100
 
 3 rounds
 12 split_squat_jumps
-40sec dead_hang
-20 russian_twists
+20 tuck_ups
+
 —————————————————————————————————————————————————————————————
 
 Notes: 
-
-* heavy squat before week 33

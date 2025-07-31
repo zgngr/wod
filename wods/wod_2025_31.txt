@@ -27,19 +27,17 @@ clean_pull + clean + jerk
 
 —————————————————————————————————————————————————————————————
 
-emom 10
-    2 snatch_push_press @ 50 ~ 63
-
 snatch
-    4*3 @ 50, 53, 55, 58
+    4*2 @ 50, 53, 55, 58
 
-front_squat
-    4*3 @ 74, 78, 82, 86
+clean + jerk
+    4*2 @ 63, 67, 72, 76
 
+ergo
 3 rounds
-8 deficit_push_ups
-8 good_mornings
-8 high_box_jumps
+    300m skierg
+    300m rowerg
+    1000m bikerg
 
 —————————————————————————————————————————————————————————————
 
