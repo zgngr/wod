@@ -1,44 +1,39 @@
-emom 10
-    2 snatch_push_press @ 50 ~ 63
-
 paused_snatch + snatch
     3*3 @ 50, 53, 55
 
-front_squat
-    3*7 @ 63
+emom 10
+    3 banded_snatch_press @ 30
 
 3 rounds
-8 good_mornings
-8 high_box_jumps
+8 reverse_hyper_extensions
+8 deficit_push_ups
 
 —————————————————————————————————————————————————————————————
+
 emom 10
-    hang_power_clean + power_jerk @ 50 ~ 63
+    power_clean + hang_clean @ 50 ~ 63
 
 clean + jerk
     4*2 @ 63, 67, 72, 76
 
-ergo
 3 rounds
-    200m SkiErg
-    400m RowErg
-    1200m BikeErg
+6 pull_ups
+40sec plank
+
 —————————————————————————————————————————————————————————————
 
 snatch
-    2*1 @ 48
-    1  @ 51
-    2*1 @ 54
-    1 @ 57
-    1 @ 60
-    1 @ 62
+    build_upto 2*1 @ 62
 
-back_squat
-    4*3 @ 100
+clean_pull
+    5*3 @ 90
+
+front_squat
+    4*3 @ 74, 78, 82, 86
 
 3 rounds
-12 split_squat_jumps
-20 tuck_ups
+8 high_box_jumps
+16 tuck_ups
 
 —————————————————————————————————————————————————————————————
 
