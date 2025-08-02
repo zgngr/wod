@@ -18,6 +18,7 @@ clean + jerk
 
 3 rounds
 6 pull_ups
+8 rear_delt_flies
 40sec plank
 
 —————————————————————————————————————————————————————————————
