@@ -4,6 +4,9 @@ paused_snatch + snatch
 emom 10
     3 banded_snatch_press @ 30
 
+front_squat
+    3*7 @ 63
+
 3 rounds
 8 reverse_hyper_extensions
 8 deficit_push_ups
@@ -16,18 +19,12 @@ emom 10
 clean + jerk
     4*2 @ 63, 67, 72, 76
 
-3 rounds
-6 pull_ups
-8 rear_delt_flies
-40sec plank
+ergo
 
 —————————————————————————————————————————————————————————————
 
 snatch
     build_upto 2*1 @ 62
-
-clean_pull
-    5*3 @ 90
 
 front_squat
     4*3 @ 74, 78, 82, 86
