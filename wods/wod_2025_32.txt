@@ -14,7 +14,7 @@ front_squat
 —————————————————————————————————————————————————————————————
 
 emom 10
-    power_clean + hang_clean @ 50 ~ 63
+    paused_power_clean + hang_clean + push_press @ 50 ~ 63
 
 clean + jerk
     4*2 @ 63, 67, 72, 76
