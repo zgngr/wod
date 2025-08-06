@@ -1,45 +1,38 @@
-snatch
-    2*1 @ 48
-    1  @ 51
-    2*1 @ 54
-    1 @ 57
-    1 @ 60
-    1 @ 62
+snatch_pull + floating_snatch + snatch
+    3*3 @ 50, 53, 55
 
-ergo
+front_squat
+    3*7 @ 63
+
+jerk_dip_squat
+    3*7 @ 80
+
 3 rounds
-    300m skierg
-    300m rowerg
-    1000m bikerg
-
-—————————————————————————————————————————————————————————————
-
-clean + jerk
-    2+2 @ 42 X2
-    2+2 @ 50
-    1+1 @ 58 X2
-    1+1 @ 63 
-    1+1 @ 67 
-    1+1 @ 72 X2
-    1+1 @ 75
-    1+1 @ 80
-    1+1 @ 84
-    1+1 @ 87
+8 dumbell_rear_delts
+20 v-ups
 
 —————————————————————————————————————————————————————————————
 
 emom 10
-    3 hang_snatch_high_pull
+    clean_pull + floating_clean + power_jerk @ 50 ~ 63
+
+clean + jerk
+    build_upto 2*1 @ 80
+
+ergo
+
+—————————————————————————————————————————————————————————————
+
+emom 10
+    build_upto 2*1 @ 60
 
 back_squat
-    4*3 @ 100
+    4*3 @ 95
 
 3 rounds
-8 deficit_push_ups
-8 reverse_hyper_extensions
+6 drop_jump
+16 russian_twists
 
 —————————————————————————————————————————————————————————————
 
 Notes: 
-
-* max out to 103%
