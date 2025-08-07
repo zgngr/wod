@@ -12,19 +12,21 @@ jerk_dip_squat
 20 v-ups
 
 —————————————————————————————————————————————————————————————
+emom 10
+    2 split_jerks @ 50 ~ 63
 
 emom 10
-    clean_pull + floating_clean + power_jerk @ 50 ~ 63
-
-clean + jerk
-    build_upto 2*1 @ 80
+    clean_pull + floating_clean + clean @ 50 ~ 67
 
 ergo
 
 —————————————————————————————————————————————————————————————
 
-emom 10
+snatch
     build_upto 2*1 @ 60
+
+clean
+    build_upto 2*1 @ 80
 
 back_squat
     4*3 @ 95
