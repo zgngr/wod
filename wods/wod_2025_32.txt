@@ -26,6 +26,9 @@ ergo
 snatch
     build_upto 2*1 @ 62
 
+clean
+    build_upto 2*1 @ 76
+    
 front_squat
     4*3 @ 74, 78, 82, 86
 
