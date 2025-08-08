@@ -4,8 +4,8 @@
 jerk_dip_squat *4sec wait
     4*3 @ 94
 
-clean_rdl
-    4*5 @ 94
+clean_rdl + traps
+    4*5+5 @ 94
 
 3 rounds
 8 dumbell_rear_delts
