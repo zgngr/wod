@@ -1,11 +1,11 @@
-2_position_stop_snatch_pull + floating_snatch + snatch
+2_position_stop_snatch_pull + snatch + ohs
     3*3 @ 50, 53, 55
-
-front_squat
-    3*7 @ 64
 
 jerk_dip_squat *4sec wait
     4*3 @ 94
+
+clean_rdl
+    4*5 @ 94
 
 3 rounds
 8 dumbell_rear_delts
@@ -16,7 +16,7 @@ emom 10
     2 split_jerks @ 50 ~ 63
 
 emom 10
-    2_position_stop_clean_pull + floating_clean + clean @ 50 ~ 67
+    2_position_stop_clean_pull + clean + front_squat @ 50 ~ 67
 
 ergo
 
