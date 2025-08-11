@@ -8,7 +8,7 @@ clean_rdl + traps
     4*5+5 @ 94
 
 3 rounds
-8 dumbell_rear_delts
+6 pull_ups
 10 hollow_hold_with_overhead_reach
 
 —————————————————————————————————————————————————————————————
