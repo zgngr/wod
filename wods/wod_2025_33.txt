@@ -23,7 +23,7 @@ snatch
     build_upto 2*1 @ 60
 
 clean
-    build_upto 2*1 @ 80
+    build_upto 2*1 @ 77
 
 back_squat
     4*3 @ 100
@@ -35,3 +35,4 @@ back_squat
 —————————————————————————————————————————————————————————————
 
 Notes: 
+ 
