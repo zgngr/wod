@@ -10,7 +10,8 @@ clean_rdl + traps
 
 —————————————————————————————————————————————————————————————
 emom 10
-    2 split_jerks @ 50 ~ 63
+    jerk_dips + split_jerks 
+        2+2 @ 50 ~ 63
 
 2_position_stop_clean_pull + clean + front_squat
     4*2 @ 60, 64, 68, 73
