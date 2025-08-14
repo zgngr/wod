@@ -29,6 +29,9 @@ clean
 back_squat
     4*3 @ 100
 
+front_rack_dips
+    4*3 @ 100
+
 3 rounds
 6 drop_jump
 16 russian_twists
