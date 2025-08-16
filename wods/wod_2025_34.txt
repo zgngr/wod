@@ -1,11 +1,11 @@
 paused_snatch + snatch + ohs
     3*3 @ 50, 54, 57
 
-banded_snatch_pull
-    4*4 @ 70
-
 front_squat
-    3*7 @ 64
+    3*7 @ 71
+
+banded_snatch_pull
+    5*3 @ 70
 
 3 rounds
 8 hyper_extensions
@@ -45,4 +45,4 @@ front_rack_dips
 
 —————————————————————————————————————————————————————————————
 
-Notes: DELOAD
+Notes: 
