@@ -1,11 +1,11 @@
-paused_snatch + snatch + ohs
+paused_snatch + snatch
     3*3 @ 50, 54, 57
 
 front_squat
     3*7 @ 71
 
-banded_snatch_pull
-    5*3 @ 70
+sots_press
+    3*7 @ 30
 
 3 rounds
 8 hyper_extensions
@@ -19,8 +19,8 @@ emom 10
 paused_clean + clean + jerk
     3*3 @ 60, 64, 68
 
-banded_clean_pull
-    4*4 @ 90
+banded_snatch_pull
+    5*3 @ 70
 
 ergo
 
@@ -35,13 +35,9 @@ clean + jerk
 front_squat
     3*4 @ 77, 80, 84
 
-front_rack_dips
-    4*3 @ 100
-
 3 rounds
-8 high_box_jumps
-12 tuck_ups
-40 sec dead_hang
+6 drop_jumps
+8 strict_toes_to_bar
 
 —————————————————————————————————————————————————————————————
 
