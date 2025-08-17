@@ -9,7 +9,7 @@ sots_press
 
 3 rounds
 8 hyper_extensions
-8 deficit_push_ups
+8 strict_toes_to_bar
 
 —————————————————————————————————————————————————————————————
 
@@ -19,7 +19,7 @@ emom 10
 paused_clean + clean + jerk
     3*3 @ 60, 64, 68
 
-banded_snatch_pull
+banded_clean_pull
     5*3 @ 70
 
 ergo
@@ -37,7 +37,7 @@ front_squat
 
 3 rounds
 6 drop_jumps
-8 strict_toes_to_bar
+6 strict_pull_ups
 
 —————————————————————————————————————————————————————————————
 
