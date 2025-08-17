@@ -19,8 +19,8 @@ emom 10
 paused_clean + clean + jerk
     3*3 @ 60, 64, 68
 
-banded_clean_pull
-    5*3 @ 70
+clean_pull + floating_clean_pull + shrug (*banded)
+    3*2 @ 70
 
 ergo
 
