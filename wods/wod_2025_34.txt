@@ -1,11 +1,11 @@
-paused_snatch + snatch
-    3*3 @ 50, 54, 57
-
-front_squat
-    3*7 @ 71
+floating_snatch + snatch
+    3*2 @ 50, 54, 57
 
 sots_press
     3*7 @ 30
+
+front_squat
+    3*7 @ 63
 
 3 rounds
 8 hyper_extensions
@@ -16,8 +16,8 @@ sots_press
 emom 10
     3 seated_barbell_press @ 40 ~ 45
 
-paused_clean + clean + jerk
-    3*3 @ 60, 64, 68
+clean + clean + jerk
+    3*2 @ 60, 64, 68
 
 clean_pull + floating_clean_pull + shrug (*banded)
     3*2 @ 70
