@@ -13,11 +13,8 @@ front_squat
 
 —————————————————————————————————————————————————————————————
 
-emom 10
-    3 seated_barbell_press @ 40 ~ 45
-
-clean + clean + jerk
-    3*2 @ 60, 64, 68
+snatch
+    build_upto 2*1 @ 60
 
 clean_pull + floating_clean_pull + shrug (*banded)
     3*2 @ 70
@@ -26,8 +23,8 @@ ergo
 
 —————————————————————————————————————————————————————————————
 
-snatch
-    build_upto 2*1 @ 60
+emom 10
+    3 seated_barbell_press @ 40 ~ 45
 
 clean + jerk
     build_upto 2*1 @ 73
