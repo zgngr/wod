@@ -9,7 +9,7 @@ jerk_dip
 
 3 rounds
 band_face_pull 12
-hollow_hold 30s/side
+russian_twists 20
 
 —————————————————————————————————————————————————————————————
 
