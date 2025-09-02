@@ -14,9 +14,9 @@ russian_twists 20
 —————————————————————————————————————————————————————————————
 
 emom 10
-    2 push_press @ 52 ~ 56
+    2 split_jerk @ 52 ~ 56
 
-clean + front_squat + jerk
+clean + jerk
     4x(1+1+1) @ 68kg
 
 snatch_grip_rdl
