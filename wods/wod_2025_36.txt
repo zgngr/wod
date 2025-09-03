@@ -14,10 +14,10 @@ russian_twists 20
 —————————————————————————————————————————————————————————————
 
 emom 10
-    2 split_jerk @ 52 ~ 56
+    2 power_jerk @ 52 ~ 56
 
 clean + jerk
-    4x(1+1+1) @ 68kg
+    4x(1+1) @ 68kg
 
 snatch_grip_rdl
     3x3 @ 70kg
