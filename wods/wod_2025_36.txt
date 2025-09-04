@@ -13,8 +13,10 @@ russian_twists 20
 
 —————————————————————————————————————————————————————————————
 
-emom 10
-    2 power_jerk @ 52 ~ 56
+emom 16
+    @ 52 ~ 56
+    odds - > 2 push_press 
+    evens -> 2 split_jerk 
 
 clean + jerk
     4x(1+1) @ 68kg
@@ -27,16 +29,16 @@ ergo
 —————————————————————————————————————————————————————————————
 
 snatch
-    build_upto 2x1 54kg
+    5x1 @ 54kg
 
 clean + jerk
-    build_upto 2x1 @ 73kg
+    5x1 @ 68kg
 
 back_squat
     4x5 @ 102kg
 
 3 rounds
-8 band_face_pull 
+10 barbell_side_bands
 6  drop_jumps
 16 tuck_ups
 
