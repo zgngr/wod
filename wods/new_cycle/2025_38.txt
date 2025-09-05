@@ -1,5 +1,5 @@
 power_snatch + ohs + hang_snatch (from knee) 
-    5×(1+2+1) @ 45kg
+    5×(1+2+1) @ 42kg
 
 snatch_pull
     3x3 @ 60
@@ -11,14 +11,14 @@ Acc: Snatch Grip BTN Press 3×8; Romanian DL 3×8; Side Plank 3×30s
 
 —————————————————————————————————————————————————————————————
 
-push_press
-    5x3 @ 60
+tall_jerk (no dip) + split_jerk
+    6×(1+1) @ 50~55
 
-clean_pull + hang_clean + jerk
-    5×(1+1+1) @ 52 ~ 56
+jerk_from_rack 
+    4×2 @ 65% (2s pause in split)
 
-front_squat
-    5×3 @ * 70kg
+clean
+    5x2 @ 55~60
 
 Acc: Strict Press 3×8; Chest-supported Row 3×10; Reverse Hyper/Back Ext 3×12
 
@@ -31,9 +31,6 @@ power_clean + power_jerk
     5*(1+1) @ 56kg
 
 front_squat
-    5*3 @ 70kg 
+    4*4 @ 70kg 
 
-3 rounds
-back_extensions 10–12
-Single-arm DB row 10/side
-Copenhagen_plank 20–30s/side
+ergo
