@@ -1,29 +1,26 @@
 power_snatch + ohs + hang_snatch (from knee) 
     5×(1+2+1) @ 45kg
 
-snatch_sots_press
-    3*6 @ 20kg
+snatch_pull
+    3x3 @ 60
 
 back_squat
     4*5 @ 84kg
 
-3 rounds
-tuck_ups 12-15 
-box_jumps 8-10
-dead_hang 30s
+Acc: Snatch Grip BTN Press 3×8; Romanian DL 3×8; Side Plank 3×30s
 
 —————————————————————————————————————————————————————————————
 
-emom 10
-    2 push_press @ 52 ~ 56
+push_press
+    5x3 @ 60
 
 clean_pull + hang_clean + jerk
     5×(1+1+1) @ 52 ~ 56
 
-clean_pull
-    3×3 @ * 77kg
+front_squat
+    5×3 @ * 70kg
 
-21 rowing with 8 push_ups
+Acc: Strict Press 3×8; Chest-supported Row 3×10; Reverse Hyper/Back Ext 3×12
 
 —————————————————————————————————————————————————————————————
 
