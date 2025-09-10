@@ -14,8 +14,8 @@ Acc: Snatch Grip BTN Press 3×8; Romanian DL 3×8; Side Plank 3×30s
 tall_jerk (no dip) + split_jerk
     6×(1+1) @ 50~55
 
-jerk_from_rack 
-    4×2 @ 65% (2s pause in split)
+push_press
+    5x3 @ 60kg
 
 clean
     5x2 @ 55~60
