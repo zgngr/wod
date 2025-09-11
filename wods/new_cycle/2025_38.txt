@@ -9,7 +9,6 @@ back_squat
 
 Acc: 
     chicken_jumps 3x6
-    pull_ups 3x6
     side_plank 3x30s
 
 —————————————————————————————————————————————————————————————

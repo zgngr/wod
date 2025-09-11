@@ -31,6 +31,6 @@ power_clean + power_jerk
     5*(1+1) @ 56kg
 
 front_squat
-    4*4 @ 70kg 
+    5*3 @ 70kg 
 
 ergo
