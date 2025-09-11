@@ -1,26 +1,26 @@
-power_snatch + ohs + hang_snatch (from knee) 
-    5×(1+2+1) @ 42kg
+snatch_pull + hang_snatch + ohs 
+    5×(1+1+2) @ 45
 
-snatch_pull
-    3x3 @ 60
+snatch (single from blocks, mid-shin)
+    6×1 @ 45
 
 back_squat
-    4*5 @ 84kg
+    5*4 @ 90kg
 
 Acc: Snatch Grip BTN Press 3×8; Romanian DL 3×8; Side Plank 3×30s
 
 —————————————————————————————————————————————————————————————
 
-tall_jerk (no dip) + jerk_balance
-    5×(2+2) @ 50~55
-
 push_press
-    5x3 @ 60kg
+    5x3 @ 62
 
-clean
-    5x2 @ 55~60
+jerk_drives 
+    4×3 @ 80
 
-Acc: Strict Press 3×8; Chest-supported Row 3×10; Reverse Hyper/Back Ext 3×12
+clean_pull
+    3×3 @ 80
+
+Acc: Weighted Chin-ups 4×5; Hip Airplanes 2×6/side
 
 —————————————————————————————————————————————————————————————
 
