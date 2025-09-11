@@ -7,9 +7,7 @@ snatch_pull
 back_squat
     4*5 @ 84kg
 
-Acc: 
-    chicken_jumps 3x6
-    side_plank 3x30s
+Acc: chicken_jumps 3x6; side_plank 3x30s
 
 —————————————————————————————————————————————————————————————
 
@@ -22,8 +20,7 @@ clean
 seated_strict_press
     5x3 @ 40kg
 
-Acc: dumbell_row 3×10 
-     hyper_extension 3×8
+Acc: dumbell_row 3×10; hyper_extension 3×8
 
 —————————————————————————————————————————————————————————————
 

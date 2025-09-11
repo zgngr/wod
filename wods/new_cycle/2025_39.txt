@@ -7,7 +7,7 @@ snatch_press_with_bands
 back_squat
     5*4 @ 90kg
 
-Acc: Snatch Grip BTN Press 3×8; Romanian DL 3×8; Side Plank 3×30s
+Acc: drop_jumps 3x6; copenhagen_plank 3x20s/side
 
 —————————————————————————————————————————————————————————————
 
@@ -15,12 +15,12 @@ paused_jerks
     5×2 @ 50~55
 
 clean + hang_clean + push_press
-    5x(1+1+1) @ 55~60
+    5x(1+1+2) @ 55~60
 
 clean_pull
     3×3 @ 80
 
-Acc: Weighted Chin-ups 4×5; Hip Airplanes 2×6/side
+Acc: weighted_pull_ups 4×5; hip_airplanes 2×6/side
 
 —————————————————————————————————————————————————————————————
 
