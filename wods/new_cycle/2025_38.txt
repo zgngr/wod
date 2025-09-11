@@ -36,4 +36,5 @@ power_clean + power_jerk
 front_squat
     4*4 @ 70kg 
 
-ergo
+jerk_drives 
+    4×3 @ 80

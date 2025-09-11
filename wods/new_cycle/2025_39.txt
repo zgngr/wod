@@ -1,8 +1,8 @@
 snatch_pull + hang_snatch + ohs 
-    5×(1+1+2) @ 45
+    6×(1+1+2) @ 45
 
-snatch (single from blocks, mid-shin)
-    6×1 @ 45
+snatch_press_with_bands
+    4x5
 
 back_squat
     5*4 @ 90kg
@@ -11,11 +11,11 @@ Acc: Snatch Grip BTN Press 3×8; Romanian DL 3×8; Side Plank 3×30s
 
 —————————————————————————————————————————————————————————————
 
-push_press
-    5x3 @ 62
+paused_jerks
+    5×2 @ 50~55
 
-jerk_drives 
-    4×3 @ 80
+clean + hang_clean + push_press
+    5x(1+1+1) @ 55~60
 
 clean_pull
     3×3 @ 80
@@ -33,4 +33,5 @@ power_clean + power_jerk
 front_squat
     5*3 @ 70kg 
 
-ergo
+jerk_drives 
+    4×3 @ 80
