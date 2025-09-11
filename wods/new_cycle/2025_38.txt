@@ -7,20 +7,24 @@ snatch_pull
 back_squat
     4*5 @ 84kg
 
-Acc: Snatch Grip BTN Press 3×8; Romanian DL 3×8; Side Plank 3×30s
+Acc: 
+    chicken_jumps 3x6
+    pull_ups 3x6
+    side_plank 3x30s
 
 —————————————————————————————————————————————————————————————
 
 tall_jerk (no dip) + jerk_balance
     5×(2+2) @ 50~55
 
-push_press
-    5x3 @ 60kg
-
 clean
     5x2 @ 55~60
 
-Acc: Strict Press 3×8; Chest-supported Row 3×10; Reverse Hyper/Back Ext 3×12
+seated_strict_press
+    5x3 @ 40kg
+
+Acc: dumbell_row 3×10 
+     hyper_extension 3×8
 
 —————————————————————————————————————————————————————————————
 
