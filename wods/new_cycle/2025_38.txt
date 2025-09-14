@@ -1,28 +1,31 @@
-power_snatch + ohs + hang_snatch (from knee) 
-    5×(1+2+1) @ 42kg
+power_snatch + hang_snatch + ohs 
+    5×(1+2+1) @ 42~45kg
 
 snatch_pull
-    3x3 @ 60
+    4x3 @ 60
 
 back_squat
-    4*5 @ 84kg
+    5x5 @ 84
 
-Acc: chicken_jumps 3x6; side_plank 3x30s
+Acc: barbell_row 4*8; weighted_side_planks 3×30s/side 
 
 —————————————————————————————————————————————————————————————
 
 tall_jerk (no dip) + jerk_balance
-    5×(2+2) @ 50~55
+    5×(2+2) @ 40~50
+
+push_jerk_from_rack
+    3*3 @ 50~55
 
 clean
     5x2 @ 55~60
 
-seated_strict_press
-    5x3 @ 40kg
-
-Acc: dumbell_row 3×10; hyper_extension 3×8
+Acc: hyper_extension 4×6; deficit_push_ups 3*8
 
 —————————————————————————————————————————————————————————————
+
+front_squat
+    4*4 @ 70kg 
 
 power_snatch 
     5*2 @ 42kg
@@ -30,8 +33,4 @@ power_snatch
 power_clean + power_jerk
     5*(1+1) @ 56kg
 
-front_squat
-    4*4 @ 70kg 
-
-jerk_drives 
-    4×3 @ 80
+Acc: box_jumps 5*3; russian_twists 3*20
