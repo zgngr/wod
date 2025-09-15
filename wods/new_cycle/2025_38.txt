@@ -1,11 +1,12 @@
 power_snatch + hang_snatch + ohs 
     5×(1+2+1) @ 42~45kg
 
+snatch_pull
+    4x3 @ 60
+
 back_squat
     5x5 @ 84
 
-snatch_pull
-    4x3 @ 60
 
 Acc: barbell_row 4*8; weighted_side_planks 3×30s/side 
 
