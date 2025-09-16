@@ -18,7 +18,7 @@ tall_jerk (no dip) + jerk_balance
 push_jerk_from_rack
     3*3 @ 50~55
 
-clean
+power_clean + hang_clean + jerk
     5x2 @ 55~60
 
 Acc: hyper_extension 4×6; deficit_push_ups 3*8
@@ -26,12 +26,12 @@ Acc: hyper_extension 4×6; deficit_push_ups 3*8
 —————————————————————————————————————————————————————————————
 
 front_squat
-    4*4 @ 70kg 
+    5*5 @ 70kg 
 
-power_snatch 
-    5*2 @ 42kg
+clean_pull
+    4*3 @ 77kg
 
-power_clean + power_jerk
-    5*(1+1) @ 56kg
+snatch
+    3*3 @ 44kg
 
 Acc: box_jumps 5*3; russian_twists 3*20
