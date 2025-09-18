@@ -7,7 +7,6 @@ snatch_pull
 back_squat
     5x5 @ 84
 
-
 Acc: barbell_row 4*8; weighted_side_planks 3×30s/side 
 
 —————————————————————————————————————————————————————————————
@@ -18,20 +17,23 @@ tall_jerk (no dip) + jerk_balance
 push_jerk_from_rack
     3*3 @ 50~55
 
-power_clean + hang_clean + jerk
+power_clean + power_jerk
     5x2 @ 55~60
 
-Acc: hyper_extension 4×6; deficit_push_ups 3*8
+Acc: hyper_extension 5×5; bench_dips 3*8
 
 —————————————————————————————————————————————————————————————
 
-front_squat
-    5*5 @ 70kg 
+snatch
+    5*2 @ 44kg
+
+clean + jerk
+    5*2 @ 55~60kg
 
 clean_pull
     4*3 @ 77kg
 
-snatch
-    3*3 @ 44kg
+front_squat
+    5*5 @ 70kg 
 
 Acc: box_jumps 5*3; russian_twists 3*20
