@@ -1,0 +1,39 @@
+snatch_pull + power_snatch + snatch
+    5×(1+1+1) @ 44kg
+
+snatch_press
+    4*5 @ 44
+
+front_squat
+    5*5 @ 73kg 
+
+Acc: pull_ups 4*6; hollow_hold 3×45s 
+
+—————————————————————————————————————————————————————————————
+
+clean_pull + hang_clean + jerk
+    5×(1+1+1) @ 55~58kg
+
+jerk_from_blocks
+    3*3 @ 64kg  
+
+overhead_press 
+    4×4 
+
+Acc: leg_raises 3*12
+
+—————————————————————————————————————————————————————————————
+
+snatch
+    3*3 @ 44kg
+
+clean + jerk
+    3*3 @ 55~58kg
+
+snatch_pull
+    4*3 @ 58kg
+
+back_squat
+    5*5 @ 88kg 
+
+Acc: hyper_extension 5×5; plank 3*60
