@@ -17,8 +17,8 @@ clean_pull + hang_clean + jerk
 jerk_from_blocks
     3*3 @ 64kg  
 
-overhead_press 
-    4×4 
+press_in_split
+    4×4 @ 40
 
 Acc: leg_raises 3*12
 
