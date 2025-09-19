@@ -20,7 +20,7 @@ jerk_from_blocks
 press_in_split
     4×4 @ 40
 
-Acc: leg_raises 3*12
+Acc: DB_Bench_Press 4×8; leg_raises 3*12
 
 —————————————————————————————————————————————————————————————
 
