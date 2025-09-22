@@ -1,8 +1,8 @@
-snatch_pull + power_snatch + snatch
-    5×(1+1+1) @ 45kg
+hang_snatch
+    5×2 @ 45kg
 
 snatch_press
-    4*5 @ 45
+    4*4 @ 45
 
 front_squat
     5*5 @ 73kg 
@@ -11,23 +11,23 @@ Acc: pull_ups 4*6; hollow_hold 3×45s
 
 —————————————————————————————————————————————————————————————
 
-clean_pull + hang_clean + jerk
-    5×(1+1+1) @ 55~58kg
-
 jerk_from_blocks
-    3*3 @ 64kg  
+    4*2 @ 64kg  
 
 press_in_split
     4×4 @ 40
 
-Acc: DB_Bench_Press 4×8; leg_raises 3*12
+hang_clean
+    5×2 55~58kg
+
+21-18-...3 rowerg, 8 deficit_push_ups
 
 —————————————————————————————————————————————————————————————
 
-snatch
-    3*3 @ 45kg
+power_snatch + snatch
+    5*(1+1) @ 45kg
 
-clean + jerk
+power_clean + power_jerk
     3*3 @ 55~58kg
 
 snatch_pull
