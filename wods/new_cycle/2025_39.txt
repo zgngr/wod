@@ -11,14 +11,11 @@ Acc: pull_ups 4*6; hollow_hold 3×45s
 
 —————————————————————————————————————————————————————————————
 
-jerk_from_blocks
-    4*2 @ 64kg  
+push_press
+    4*3 @ upto_64kg  
 
-press_in_split
-    4×4 @ 40
-
-hang_clean
-    5×2 55~58kg
+hang_clean + jerk
+    5×2(1+2) 55~58kg
 
 snatch_pull
     4*3 @ 58kg
