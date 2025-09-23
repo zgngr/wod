@@ -20,6 +20,9 @@ press_in_split
 hang_clean
     5×2 55~58kg
 
+snatch_pull
+    4*3 @ 58kg
+
 Acc: DB_Bench_Press 4×8; leg_raises 3*12
 
 —————————————————————————————————————————————————————————————
@@ -29,9 +32,6 @@ power_snatch + snatch
 
 power_clean + power_jerk
     3*3 @ 55~58kg
-
-snatch_pull
-    4*3 @ 58kg
 
 back_squat
     5*5 @ 88kg 
