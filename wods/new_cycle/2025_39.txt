@@ -24,8 +24,8 @@ Acc: DB_Bench_Press 4×8; leg_raises 3*12
 
 —————————————————————————————————————————————————————————————
 
-power_snatch + snatch
-    5*(1+1) @ 45kg
+power_snatch
+    4*3 @ 45kg
 
 power_clean + power_jerk
     5*(1+2) @ 55~58kg
