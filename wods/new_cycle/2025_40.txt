@@ -7,7 +7,7 @@ sots_press
 front_squat
     5*3 @ 75kg 
 
-Acc: good_mornings 4*8; side_bends 3*12 
+Acc: seated_strict_press 5*4; side_bends 3*12 
 
 —————————————————————————————————————————————————————————————
 
