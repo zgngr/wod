@@ -1,5 +1,5 @@
-hang_snatch
-    5×2 @ 46kg
+hang_snatch + ohs
+    5×(2+1) @ 46kg
 
 sots_press
     4*4 @ 30
@@ -7,7 +7,7 @@ sots_press
 front_squat
     5*3 @ 75kg 
 
-Acc: seated_strict_press 5*4; side_bends 3*12 
+Acc: good_mornings 4*8; side_bends 3*12 
 
 —————————————————————————————————————————————————————————————
 
@@ -33,4 +33,4 @@ clean_pull + shrug
 back_squat
     5*3 @ 90kg 
 
-Acc: hyper_extension 5×5; hollow_hold 3x45s
+Acc: seated_strict_press 5*4; hyper_extension 5×5; 
