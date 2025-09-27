@@ -7,7 +7,7 @@ sots_press
 front_squat
     5*3 @ 75kg 
 
-Acc: good_mornings 4*8; side_bends 3*12 
+Acc: nordic_curl 5×5; side_bends 3*12 
 
 —————————————————————————————————————————————————————————————
 
@@ -20,7 +20,11 @@ split_jerk
 rdl
     4*8 @ 70kg
 
-Acc: nordic_curl 5×5; v-ups 3×12 
+ergo
+    21-15-9-3 
+    cal_row
+    cal_ski
+    rest 2:00 between_sets
 
 —————————————————————————————————————————————————————————————
 
