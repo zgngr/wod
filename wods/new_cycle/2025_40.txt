@@ -11,7 +11,7 @@ Acc: nordic_curl 5×5; side_bends 3*12
 
 —————————————————————————————————————————————————————————————
 
-hang_clean + push_jerk
+hang_clean + push_press
     5x(2+1) 58~62kg
 
 split_jerk
