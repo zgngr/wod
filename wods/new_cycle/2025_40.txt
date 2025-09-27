@@ -12,7 +12,7 @@ Acc: good_mornings 4*8; side_bends 3*12
 —————————————————————————————————————————————————————————————
 
 hang_clean + push_jerk
-    5x(1+1) 58~62kg
+    5x(2+1) 58~62kg
 
 split_jerk
     4*2 @ upto_68kg  
