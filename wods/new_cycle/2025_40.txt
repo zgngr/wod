@@ -18,7 +18,7 @@ split_jerk
     4*2 @ upto_68kg  
 
 rdl
-    4*8 @ 70kg
+    5*5 @ 70kg
 
 ergo
     21-15-9-3 
