@@ -1,8 +1,8 @@
 hang_snatch + ohs
     5×(2+1) @ 46kg
 
-sots_press
-    4*4 @ 30
+rdl
+    5*4 @ 70kg
 
 front_squat
     5*3 @ 75kg 
@@ -16,9 +16,6 @@ hang_clean + push_jerk
 
 split_jerk
     4*2 @ upto_68kg  
-
-rdl
-    5*5 @ 70kg
 
 ergo
     21-15-9-3 
