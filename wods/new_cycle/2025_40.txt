@@ -32,6 +32,6 @@ clean_pull + shrug
     4x3 @ 80kg
 
 back_squat
-    5*3 @ 90kg 
+    5*5 @ 90kg 
 
 Acc: seated_strict_press 5*4; hyper_extension 5×5; 
