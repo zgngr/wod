@@ -17,12 +17,10 @@ hang_clean + push_press
 split_jerk
     4*2 @ upto_68kg
 
-ergo
-    21-15-9-3 
-    cal_row
-    cal_ski
-    rest 2:00 between_sets
+barbell_row 
+    4*8
 
+Acc: seated_strict_press 5*4; v-ups 3×12; 
 —————————————————————————————————————————————————————————————
 
 paused_power_snatch + paused_snatch + ohs
@@ -34,4 +32,4 @@ clean_pull + shrug
 back_squat
     5*5 @ 90kg 
 
-Acc: seated_strict_press 5*4; hyper_extension 5×5; 
+Acc: hyper_extension 5×5; hollow_hold 3x45s; 
