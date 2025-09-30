@@ -1,6 +1,9 @@
 hang_snatch + ohs
     5×(2+1) @ 46kg
 
+sots_press
+    3*6 @ 34kg
+
 rdl
     5*4 @ 70kg
 
