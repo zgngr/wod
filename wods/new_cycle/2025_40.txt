@@ -14,16 +14,17 @@ Acc: nordic_curl 5×5; side_bends 3*12
 
 —————————————————————————————————————————————————————————————
 
-hang_clean + push_press
+hang_power_clean + push_press
     5x(2+1) 58~62kg
 
 split_jerk
     4*2 @ upto_68kg
 
-barbell_row 
-    4*8
+seated_strict_press 
+    5*4 @ 40
 
-Acc: seated_strict_press 5*4; v-ups 3×12; 
+ergo
+
 —————————————————————————————————————————————————————————————
 
 snatch
@@ -35,4 +36,4 @@ clean_pull + shrug
 back_squat
     5*3 @ 90kg 
 
-Acc: hyper_extension 5×5; hollow_hold 3x45s; 
+Acc: hyper_extension 5×5; v-ups 3x16; 
