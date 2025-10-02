@@ -20,15 +20,15 @@ hang_power_clean + push_press
 split_jerk
     4*2 @ upto_68kg
 
-seated_strict_press 
-    5*4 @ 40
-
 ergo
 
 —————————————————————————————————————————————————————————————
 
 snatch
     3x2 @ 46kg
+
+seated_strict_press 
+    5*4 @ 40
 
 clean_pull + shrug
     4x3 @ 80kg
