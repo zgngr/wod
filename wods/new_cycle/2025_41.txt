@@ -1,33 +1,35 @@
 deficit_power_snatch
     3x3 @ 40kg
 
-sots_press
-    3*6 @ 30kg
-
-front_squat
+ohs
     3*3 @ 50kg 
 
-Acc: barbell_situps 3x12; pull_ups 4*6;
+sots_press
+    3*3 @ 20kg
+
+Acc: barbell_situps 2x10; face_pulls 4*6;
 
 —————————————————————————————————————————————————————————————
 
-clean + jerk
-    3x3(1+2) @ 50
+front_squat
+    3*3 @ 50kg
 
-barbell_row
-    3x3 @ 50
+split_jerk
+    4*2 @ upto_68kg
 
 ergo
+    skierg
+        12x250m rest 1:30
 
 —————————————————————————————————————————————————————————————
 
 muscle_snatch
     3x3 @ 40kg
 
-seated_strict_press 
-    5*4 @ 40
+clean + jerk
+    3x3 @ 50
 
 back_squat
     3*3 @ 60kg 
 
-Acc: hyper_extension 5×5; bench_dips 3*8;
+Acc: hyper_extension 5×5; copenhag_plank 3*20s;
