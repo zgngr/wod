@@ -1,0 +1,33 @@
+deficit_power_snatch
+    3x3 @ 40kg
+
+sots_press
+    3*6 @ 30kg
+
+front_squat
+    3*3 @ 50kg 
+
+Acc: barbell_situps 3x12; pull_ups 4*6;
+
+—————————————————————————————————————————————————————————————
+
+clean + jerk
+    3x3(1+2) @ 50
+
+barbell_row
+    3x3 @ 50
+
+ergo
+
+—————————————————————————————————————————————————————————————
+
+muscle_snatch
+    3x3 @ 40kg
+
+seated_strict_press 
+    5*4 @ 40
+
+back_squat
+    3*3 @ 60kg 
+
+Acc: hyper_extension 5×5; bench_dips 3*8;
