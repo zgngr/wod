@@ -32,4 +32,4 @@ clean + jerk
 back_squat
     3*3 @ 60kg 
 
-Acc: hyper_extension 5×5; copenhag_plank 3*20s;
+Acc: hyper_extension 5×5; hollow_hold 3*40s;
