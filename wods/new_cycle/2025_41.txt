@@ -4,7 +4,7 @@ deficit_power_snatch
 ohs
     3*3 @ 50kg 
 
-sots_press
+seated_press
     3*3 @ 20kg
 
 Acc: barbell_situps 2x10; face_pulls 4*6;
