@@ -11,23 +11,15 @@ Acc: barbell_situps 2x10; face_pulls 4*6;
 
 —————————————————————————————————————————————————————————————
 
-front_squat
-    3*3 @ 50kg
-
-split_jerk
-    4*2 @ upto_68kg
+clean + jerk
+    3x3(1+2) @ 50
 
 ergo
-    skierg
-        12x250m rest 1:30
 
 —————————————————————————————————————————————————————————————
 
 muscle_snatch
     3x3 @ 40kg
-
-clean + jerk
-    3x3 @ 50
 
 back_squat
     3*3 @ 60kg 
