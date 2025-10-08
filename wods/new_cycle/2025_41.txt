@@ -24,6 +24,9 @@ ergo
 muscle_snatch
     3x3 @ 40kg
 
+clean + jerk
+    3x3 @ 50kg
+
 back_squat
     3*3 @ 60kg 
 
