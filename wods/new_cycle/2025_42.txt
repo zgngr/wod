@@ -30,4 +30,4 @@ seated_press
 back_squat
     5*3 @ 96kg 
 
-Acc: hyper_extension 5×5; russian_twists 3*20;
+Acc: landmine_rotations 3*20; hyper_extension 5×5;
