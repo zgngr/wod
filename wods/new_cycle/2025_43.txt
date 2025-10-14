@@ -1,33 +1,30 @@
 snatch
-    5x2 @ 50kg
+    4x2 @ 52kg
 
-bent-over_rows
-    4*6 @ 60
+snatch_pull
+    4*2 @ 67
 
 front_squat
-    5*3 @ 80kg 
+    5*2 @ 85kg 
 
-Acc: jump_to_plate 5*3; weighted_plank 3*60sec;
+Acc: weighted_pull-ups 4*4; hollow_hold 3*45sec;
 
 —————————————————————————————————————————————————————————————
 
 clean + jerk
-    5x2 @ 67
+    4x2 @ 70
 
-clean_pull
-    4x2 @ 90
+rdl
+    4x3 @ 70
 
 ergo
 
 —————————————————————————————————————————————————————————————
 
-snatch
-    3x1 @ 48kg
-
-clean + jerk
-    3x1 @ 60
+clean + jerk 
+    3x1 @ 64kg
 
 back_squat
-    5*3 @ 96kg 
+    5*2 @ 102kg 
 
-Acc: landmine_rotations 3*20; hyper_extension 5×5;
+Acc: db_bench_press 3*20; leg_raises 3×12;
