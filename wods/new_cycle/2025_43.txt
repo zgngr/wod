@@ -1,8 +1,8 @@
 snatch
     4x2 @ 52kg
 
-snatch_pull
-    4*2 @ 67
+sots_press
+    4*4 @ 30
 
 front_squat
     5*2 @ 85kg 
@@ -14,8 +14,8 @@ Acc: weighted_pull-ups 4*4; hollow_hold 3*45sec;
 clean + jerk
     4x2 @ 70
 
-rdl
-    4x3 @ 70
+snatch_pull
+    4x2 @ 70
 
 ergo
 
