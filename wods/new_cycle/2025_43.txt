@@ -4,8 +4,8 @@ snatch
 sots_press
     4*4 @ 30
 
-front_squat
-    5*2 @ 85kg 
+back_squat
+    5*2 @ 102kg
 
 Acc: weighted_pull-ups 4*4; hollow_hold 3*45sec;
 
@@ -21,10 +21,13 @@ ergo
 
 —————————————————————————————————————————————————————————————
 
+snatch
+    3x1 @ 52kg
+
 clean + jerk 
     3x1 @ 64kg
 
-back_squat
-    5*2 @ 102kg 
+front_squat
+    5*2 @ 85kg  
 
 Acc: db_bench_press 3*20; leg_raises 3×12;
