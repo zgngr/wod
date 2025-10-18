@@ -30,4 +30,16 @@ clean + jerk
 front_squat
     5*2 @ 85kg  
 
-Acc: db_bench_press 3*20; leg_raises 3×12;
+Acc: db_bench_press 3*10; leg_raises 3×10;
+
+
+
+**************** notes for next workout ************************
+
+clean -> 1 - grip middle knurling
+clean -> 2 - mind send bar through inside to sky
+
+snatch -> 1 - more controlled speed. pull at necessery speed.
+snatch -> 2 - mind send bar through inside to sky
+
+****************************************************************
