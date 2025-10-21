@@ -43,4 +43,6 @@ snatch -> 1 - more controlled speed. pull at necessery speed.
 snatch -> 2 - mind send bar through inside to sky
 snatch -> 3 - muscle -> power -> full 
 
+acc -> 1 - next time hollow_hold 35sec
+
 ****************************************************************
