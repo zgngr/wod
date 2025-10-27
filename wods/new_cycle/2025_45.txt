@@ -1,8 +1,8 @@
+snatch
+    3x3 @ 50
+
 front_squat
     3*3 @ 60kg
-
-snatch
-    3x3 @ 40
 
 seated_press
     4x4 @ 40
@@ -12,18 +12,18 @@ Acc: rowing_plank 3*12; box_jump 5*3 rounds;
 
 —————————————————————————————————————————————————————————————
 
-back_squat
-    3*3 @ 72kg  
+clean + push_press
+    3x3 @ 60
 
-power_clean + push_press
-    3x3 @ 51
+back_squat
+    3*3 @ 72kg
 
 ergo
 
 —————————————————————————————————————————————————————————————
 
 ohs
-    3x3 @ 56kg
+    3x3 @ 50kg
 
 sots_press
     3x1 @ 40kg
