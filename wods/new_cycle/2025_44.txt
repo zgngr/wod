@@ -40,6 +40,7 @@ Acc: hyper_extension 5×5; weighted_side_planks 3×30s/side
 
 clean -> 1 - super-fast elbows bamm!
 clean -> 2 - pull to lap at a necessery speed.
+clean -> 3 - imagine side view.
 
 snatch -> 1 - imagine side view.
 snatch -> 2 - more controlled speed. pull at necessery speed.
