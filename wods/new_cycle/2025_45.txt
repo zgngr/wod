@@ -17,8 +17,8 @@ back_squat
 power_clean + power_jerk
     3x3 @ 52
 
-seated_press
-    4x4 @ 43
+clean_sots_press
+    4x4 @ 30
 
 Acc: db_bench_press 3*10; copenhag_plank 3×30s/side 
 
