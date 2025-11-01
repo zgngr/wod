@@ -1,8 +1,8 @@
 front_squat
     3*3 @ 60kg
 
-power_snatch
-    3x3 @ 40
+snatch
+    3x3 @ 50
 
 sots_press
     4x4 @ 37kg
