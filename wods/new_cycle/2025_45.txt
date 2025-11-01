@@ -33,7 +33,6 @@ snatch -> 1 - imagine side view.
 snatch -> 2 - more controlled speed. pull at necessery speed.
 snatch -> 3 - mind send bar through inside to sky
 snatch -> 4 - muscle -> power -> full 
-snatch -> 5 - don't think about contact just get up staring wall.
 
 acc -> 1 - next time hollow_hold 35sec
 
