@@ -29,9 +29,10 @@ Acc: db_bench_press 3*10; copenhag_plank 3×30s/side
 clean -> 1 - super-fast elbows bamm!
 clean -> 2 - pull to lap at a necessery speed.
 
-snatch -> 1 - HAND feel. imagine side view.
-snatch -> 2 - more controlled speed. pull at necessery speed.0
-snatch -> 3 - muscle -> power -> full 
+snatch -> 1 - HAND feel. imagine side view
+snatch -> 2 - slow pull
+snatch -> 3 - don't aim for contact
+snatch -> 4 - muscle -> power -> full 
 
 acc -> 1 - next time hollow_hold 35sec
 
