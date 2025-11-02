@@ -2,7 +2,7 @@ front_squat
     3*3 @ 60kg
 
 snatch
-    3x3 @ 50
+    3x1 @ 54
 
 sots_press
     4x4 @ 37kg
@@ -15,7 +15,7 @@ back_squat
     3*3 @ 72kg
 
 power_clean + power_jerk
-    3x3 @ 52
+    3x2 @ 52
 
 clean_sots_press
     4x4 @ 30
@@ -30,9 +30,8 @@ clean -> 1 - super-fast elbows bamm!
 clean -> 2 - pull to lap at a necessery speed.
 
 snatch -> 1 - imagine side view.
-snatch -> 2 - more controlled speed. pull at necessery speed.
-snatch -> 3 - mind send bar through inside to sky
-snatch -> 4 - muscle -> power -> full 
+snatch -> 2 - more controlled speed. pull at necessery speed.0
+snatch -> 3 - muscle -> power -> full 
 
 acc -> 1 - next time hollow_hold 35sec
 
