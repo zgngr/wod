@@ -14,8 +14,8 @@ Acc: rowing_plank 3*12; box_jump 5*3 rounds;
 back_squat
     3*3 @ 72kg
 
-power_clean + split_jerk
-    3x2 @ 52
+clean + split_jerk
+    3x3 @ 52
 
 clean_sots_press
     4x4 @ 30
