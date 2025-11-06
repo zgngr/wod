@@ -1,5 +1,5 @@
 snatch
-    3*1 @ 58~60
+    3*1 @ 58
 
 back_squat
     3x1 @ 110
@@ -12,7 +12,7 @@ Acc: pull_ups 3*5; hollow_hold 3*35 rounds;
 —————————————————————————————————————————————————————————————
 
 clean_jerk
-    3*1 @ 78~81
+    3*1 @ 78
 
 clean_pull
     3*1 @ 98
@@ -25,10 +25,10 @@ snatch_pull
     3*1 @ 73
 
 snatch
-    3*1 @ 58
+    2*1 @ 54
 
 front_squat
-    3*1 @ 95
+    3*1 @ 92
 
 Acc: russian_twists 3*15; gorilla_rows 3*12/side;
 
