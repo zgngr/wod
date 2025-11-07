@@ -40,6 +40,8 @@ clean -> 1 - super-fast elbows bamm!
 clean -> 2 - HAND & FEET feel. Follow the line!
 clean -> 3 - pull feet + hand!
 
+jerk -> 1 - shoulders up!
+
 snatch -> 1 - HAND & FEET feel. Follow the line!
 snatch -> 2 - imagine side view
 snatch -> 3 - don't aim for contact
