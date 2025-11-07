@@ -8,7 +8,7 @@ Acc: barbell_side_bends 3x12 @ 43kg; barbell_jumps 5*3 @ 40kg;
 
 —————————————————————————————————————————————————————————————
 
-clean + front_squat + jerk
+clean + jerk
     3*2 @ 68
 
 front_squat
