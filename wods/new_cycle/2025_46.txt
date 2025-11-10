@@ -11,21 +11,21 @@ Acc: pull_ups 3*5; hollow_hold 3*35 rounds;
 
 —————————————————————————————————————————————————————————————
 
+snatch
+    2*1 @ 54
+
 clean_jerk
     3*1 @ 80
 
-clean_pull
-    3*1 @ 98
+snatch_pull
+    3*1 @ 73
 
  ergo
 
 —————————————————————————————————————————————————————————————
 
-snatch_pull
-    3*1 @ 73
-
-snatch
-    2*1 @ 54
+clean_pull
+    3*1 @ 98
 
 front_squat
     3*1 @ 92
