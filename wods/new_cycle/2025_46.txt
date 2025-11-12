@@ -28,10 +28,10 @@ front_squat
     3*1 @ 92
 
 snatch
-    2*1 @ 54
+    2*2 @ 54
 
 clean_jerk
-    2*1 @ 73
+    2*2 @ 73
 
 clean_pull
     3*1 @ 98
