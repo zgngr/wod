@@ -1,4 +1,4 @@
-snatch + ohs
+pull + snatch + ohs
     3*2 @ 50
 
 back_squat
@@ -21,16 +21,17 @@ front_squat
 **************** notes for next workout ************************
 
 clean -> 1 - super-fast elbows bamm!
-clean -> 2 - HAND & FEET feel. Follow the line!
-clean -> 3 - pull feet + hand!
+clean -> 2 - heelish foot feel.
 
 jerk -> 1 - shoulders up!
+jerk -> 2 - tight lower back with wider feet stance
+jerk -> 3 - heelish foot feel
 
-snatch -> 1 - first FEET than HAND feel. Follow the line!
-snatch -> 2 - Follow the line!
-snatch -> 3 - don't aim for contact
-snatch -> 4 - muscle -> power -> full 
+snatch -> 1 - first_part: pull with heelish foot feel ->TIE_to-> second_part: activate hands 
+snatch -> 2 - don't aim for contact
+snatch -> 3 - muscle -> power -> full 
 
 acc -> 1 - next time hollow_hold 35sec
 acc -> 2 - copenhag_plank felt painful. So, I stopped.
+
 ****************************************************************
