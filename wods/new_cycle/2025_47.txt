@@ -1,21 +1,21 @@
-back_squat
-    5x3 @ 96
-
-pull + snatch + ohs
-    3*2 @ 50
-
-
-Acc: barbell_side_bends 3x12 @ 43kg; barbell_jumps 5*3 @ 40kg;
-
-—————————————————————————————————————————————————————————————
-
 front_squat
     5*3 @ 80
 
 pull + clean + jerk
     3*2 @ 68
 
- ergo
+—————————————————————————————————————————————————————————————
+
+pull + snatch
+    4*2 @ 45~52kg
+
+pull + clean + jerk
+    4*2 @ 60~70kg
+
+back_squat
+    4x3 @ 96
+
+ergo
 
 —————————————————————————————————————————————————————————————
 
