@@ -1,8 +1,11 @@
 back_squat
-    2x1 @ 114
+    5x4 @ 90
 
-snatch
+pull + snatch
     2x1 @ 60
+
+pull + clean_jerk
+
 
 Acc: v-ups 3x12; box_jumps 5*3;
 
@@ -15,6 +18,28 @@ clean + jerk
     2*1 @ 80
 
  ergo
+
+—————————————————————————————————————————————————————————————
+
+good_mornings
+    4*5 @ 43kg
+
+push_press
+    build_up_to 3*2 @ 70kg
+
+front_squat
+    3*7 @ 60kg
+
+wod 
+6 rounds
+
+40 double_unders
+10 t2b
+20 double_unders
+5 t2b
+
+*Rest 90 sec between rounds
+*Time cap: 2,5 min per round
 
 —————————————————————————————————————————————————————————————
 
