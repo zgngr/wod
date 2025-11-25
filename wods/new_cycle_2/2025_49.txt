@@ -1,38 +1,23 @@
 back_squat
     5x4 @ 90
 
-pull + snatch
-    2x1 @ 60
+pull + floating_snatch + snatch
+    5*(1+1+1) @ 47 
 
-pull + clean_jerk
+pull + floating_clean + jerk
+    5*(1+1+1) @ 63 
 
-
-Acc: v-ups 3x12; box_jumps 5*3;
-
-—————————————————————————————————————————————————————————————
-
-front_squat
-    2*1 @ 95
-
-clean + jerk
-    2*1 @ 80
-
- ergo
+Acc: hollow_hold 3*35 sec; seated_lu_raises 3*5;
 
 —————————————————————————————————————————————————————————————
 
 good_mornings
     4*5 @ 43kg
 
-push_press
-    build_up_to 3*2 @ 70kg
-
 front_squat
-    3*7 @ 60kg
+    3*7 @ 66kg
 
-wod 
-6 rounds
-
+wod 6 rounds
 40 double_unders
 10 t2b
 20 double_unders
@@ -40,6 +25,21 @@ wod
 
 *Rest 90 sec between rounds
 *Time cap: 2,5 min per round
+
+—————————————————————————————————————————————————————————————
+
+Rowing 1:1
+500m - 450m - 400m - 450m - 500m
+
+snatch
+    build_up_to 2*3 @ 52kg
+
+snatch
+    build_up_to 1*3 @ 70kg
+
+seated_press 
+    3*5 @ 45kg
+
 
 —————————————————————————————————————————————————————————————
 

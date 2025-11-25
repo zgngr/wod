@@ -8,15 +8,22 @@ Acc: v-ups 3x12; box_jumps 5*3;
 
 —————————————————————————————————————————————————————————————
 
-front_squat
-    2*1 @ 95
+snatch
+    2x1 @ 60
 
 clean + jerk
     2*1 @ 80
 
- ergo
+ 10 rounds
+ 12 alt db snatch
+ 4 box box_jumps
+ 6 alt devils press
+ 4 box jumps
 
 —————————————————————————————————————————————————————————————
+
+front_squat
+    2*1 @ 95
 
 **************** notes for next workout ************************
 
@@ -27,9 +34,8 @@ jerk -> 1 - shoulders up!
 jerk -> 2 - tight lower back with wider feet stance
 jerk -> 3 - heelish foot feel
 
-snatch -> 1 - first_part: pull with heelish foot feel ->TIE_to-> second_part: activate hands 
-snatch -> 2 - don't aim for contact
-snatch -> 3 - muscle -> power -> full 
+snatch -> 1 - maintain shoulders & hip angles
+snatch -> 2 - imagine a heavy muscle snatch
 
 front_squat -> 1 - push elbows aggresively
 
