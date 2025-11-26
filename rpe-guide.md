@@ -35,3 +35,61 @@
 **Note:** That is why we don't go on 90%+ so often and we check/show here our performance ONLY when we are ready for this!
 
 ---
+
+## RPE Guidelines for Olympic Weightlifting Complexes
+
+In Olympic weightlifting, **complexes** (multiple lifts in one sequence) are usually performed at **lower RPEs** than singles because fatigue accumulates and the goal is often technique, speed, or positional strength.
+
+### **Typical RPE Ranges**
+
+#### **1. Technical Complexes**
+
+*Examples: `hang clean + clean`, `snatch pull + snatch`, `3-position snatch`*
+
+* **RPE 6–7**
+* Focus on technique, tempo, and consistency
+* Moderate loads with crisp bar speed
+
+#### **2. Strength-Building Complexes**
+
+*Examples: `clean pull + clean`, `snatch deadlift + snatch pull`, `pull + hang + full`*
+
+* **RPE 7–8**
+* Challenging but still maintains proper positions
+* Often used during strength phases
+
+#### **3. Power / Speed Complexes**
+
+*Examples: `power clean + power jerk`, `tall snatch + snatch`*
+
+* **RPE 6–7**
+* Emphasis on speed and timing
+
+#### **4. Heavy / Competition-Specific Complexes**
+
+*Examples: `clean + jerk + jerk`, `clean + hang clean`*
+
+* **RPE 7.5–8.5**
+* Submaximal but demanding
+* Used sparingly to avoid technical breakdown
+
+---
+
+### **Why Complexes Rarely Go Above RPE 8–8.5**
+
+* Technique deteriorates quickly with fatigue
+* Goal is typically *quality over load*
+* High-RPE complexes can reinforce poor habits (e.g., early arm bend, slow pull)
+
+---
+
+### **Summary Table**
+
+| Complex Type                 | Common RPE  |
+| ---------------------------- | ----------- |
+| Technical                    | **6–7**     |
+| Speed/Power                  | **6–7**     |
+| Strength / Positional        | **7–8**     |
+| Heavy / Competition-Specific | **7.5–8.5** |
+
+
