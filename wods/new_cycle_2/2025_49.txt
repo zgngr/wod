@@ -1,5 +1,5 @@
 back_squat
-    5x4 @ 90
+    4x5 @ 84
 
 pull + floating_snatch + snatch
     5*(1+1+1) @ 47 
@@ -15,29 +15,20 @@ good_mornings
     4*5 @ 43kg
 
 front_squat
-    3*7 @ 66kg
-
-wod 6 rounds
-40 double_unders
-10 t2b
-20 double_unders
-5 t2b
-
-*Rest 90 sec between rounds
-*Time cap: 2,5 min per round
-
-—————————————————————————————————————————————————————————————
+    3*3 @ 80kg
 
 Rowing 1:1
 500m - 450m - 400m - 450m - 500m
 
+—————————————————————————————————————————————————————————————
+
 snatch
     build_up_to 2*3 @ 52kg
 
-snatch
+clean + jerk
     build_up_to 1*3 @ 70kg
 
-seated_press 
+seated_press
     3*5 @ 45kg
 
 
