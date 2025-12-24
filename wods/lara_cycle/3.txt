@@ -1,0 +1,51 @@
+clean_sots_press
+	3/6
+
+paused_jerk + jerk
+	2/2+1 @ 43
+	2/2+1 @ 51
+	3/1+1 @ 55
+	2/1+1 @ 60
+
+split_squat
+	3/3+3 @ 40
+
+good_mornings
+	3/8 @ 40
+
+pull_ups 3/5
+deficit_push_ups 3/8
+
+——————————
+
+clean + front_squat
+	2/3+2 @ 43
+	2/3+1 @ 51
+	2/3+1 @ 60
+	2/2+1 @ 64
+	2-3/1+1 @ 68
+
+clean_pull
+	2/4 @ 68
+	3-4/4 @ 77
+
+box_jump
+	4/5 
+
+ergo
+
+——————————
+
+snatch + hang_snatch (below kness)
+	2/1+2 @ 40
+	2/1+2 @ 45
+	2/1+2 @ 50
+	2-3/1+1 @ 52
+
+back_squat
+	3/4 @ 96
+
+reverse_plank
+	3/30sec
+
+ergo
