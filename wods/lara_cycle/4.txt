@@ -1,0 +1,46 @@
+push_press
+	3/4 @ 51
+
+front_squat
+	1/3 @ 60
+	1/3 @ 68
+	3/3 @ 77
+
+sitting_press
+	3/5 @ 40
+
+ergo
+
+——————————
+
+snatch_pull
+	1/3 45
+	1/3 62
+	3/3 60
+
+wall_sit
+	3/30sec
+
+box_jump
+	3/6
+
+ergo
+
+——————————
+
+snatch
+	2/2 @ 45
+	2/1 @ 50
+	2/1 @ 52
+	3/1 @ 55
+
+clean + front_squat + jerk
+	2+1+2   @ 43
+	2/2+1+2 @ 51
+	1+1+1   @ 60
+	1+1+1   @ 64
+	2/1+1+1 @ 68
+	2/1+1+1 @ 73
+
+raised_leg_crunches
+	3/20
