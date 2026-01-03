@@ -15,7 +15,7 @@ ergo
 
 snatch_pull
 	1/3 45
-	1/3 62
+	1/3 52
 	3/3 60
 
 wall_sit
