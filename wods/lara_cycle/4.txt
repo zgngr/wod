@@ -13,6 +13,9 @@ ergo
 
 ——————————
 
+muscle_snatch
+	3/4 @ 30
+
 snatch_pull
 	1/3 45
 	1/3 52
