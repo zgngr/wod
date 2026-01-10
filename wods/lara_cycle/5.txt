@@ -24,9 +24,6 @@ snatch + ohs
 romanian_deadlift
 	4/12
 
-pull_ups
-	4/5
-
 ——————————
 
 clean + fs
@@ -44,7 +41,5 @@ paused_back_squat
 box_jump
 	4/8
 
-deficit_push_ups
-	4/8
-
-
+russian_twists
+	4/16
