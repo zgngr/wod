@@ -6,11 +6,8 @@ snatch_push_press + ohs
 	3/2+2 @ 55
 	1/1+1 @ 58
 
-good_morning
-	4/8
-
-pull_ups
-	4/5
+deficit_snatch_deadlift + shrug
+	4/4 @ 60~70
 
 ——————————
 
@@ -30,8 +27,8 @@ front_squat + jerk
 	2/2+2 @ 60
 	2/1+2 @ 64
 
-romanian_deadlift
-	4/12
+good_morning
+	4/8
 
 deficit_push_ups
 	4/8
