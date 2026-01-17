@@ -9,6 +9,9 @@ snatch_push_press + ohs
 deficit_snatch_deadlift + shrug
 	4/4 @ 60~70
 
+seated_press
+	4/5 @ 40
+
 hollow_hold
 	4/35sec
 
@@ -32,9 +35,3 @@ front_squat + jerk
 	2/2+2 @ 51
 	2/2+2 @ 60
 	2/1+2 @ 64
-
-side_bends
-	3/10-10
-
-seated_press
-	4/5 @ 40
