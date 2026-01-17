@@ -19,6 +19,9 @@ power_clean + push_press
 	3/2+1 @ 60
 	2/1+1 @ 64
 
+good_morning
+	4/8
+
 split_squat
 	4/8+8
 
@@ -30,8 +33,5 @@ front_squat + jerk
 	2/2+2 @ 60
 	2/1+2 @ 64
 
-good_morning
-	4/8
-
-deficit_push_ups
-	4/8
+seated_press
+	4/5 @ 40
