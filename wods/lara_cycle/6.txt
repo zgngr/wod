@@ -9,6 +9,9 @@ snatch_push_press + ohs
 deficit_snatch_deadlift + shrug
 	4/4 @ 60~70
 
+hollow_hold
+	4/35sec
+
 ——————————
 
 power_clean + push_press
