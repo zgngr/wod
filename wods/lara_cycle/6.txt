@@ -1,3 +1,8 @@
+tempo_snatch
+	2/3 @ 40
+	2/3 @ 45
+	3/2 @ 50
+
 snatch_push_press + ohs
 	1/3+3 @ 40
 	1/2+2 @ 45
@@ -9,9 +14,6 @@ snatch_push_press + ohs
 deficit_snatch_deadlift + shrug
 	4/4 @ 60~70
 
-seated_press
-	4/5 @ 40
-
 hollow_hold
 	4/35sec
 
@@ -22,8 +24,8 @@ power_clean + push_press
 	3/2+1 @ 60
 	2/1+1 @ 64
 
-good_morning
-	4/8
+seated_press
+	4/5 @ 40
 
 split_squat
 	4/8+8
