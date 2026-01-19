@@ -24,11 +24,11 @@ power_clean + push_press
 	3/2+1 @ 60
 	2/1+1 @ 64
 
-seated_press
-	4/5 @ 40
-
 split_squat
 	4/8+8
+
+side_bends
+	4/16
 
 ——————————
 
