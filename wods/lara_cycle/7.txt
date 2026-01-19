@@ -34,10 +34,5 @@ chicken_jump
 
 ——————————
 
-snatch_push_press + ohs
-	1/3+3 @ 40
-	1/2+2 @ 45
-	2/2+2 @ 50
-	2/2+2 @ 52
-	3/2+2 @ 55
-	1/1+1 @ 58
+sn_push_press + sn_balance + ohs
+	3/2+2+2 @ 40
