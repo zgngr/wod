@@ -37,5 +37,8 @@ barbell_jump
 
 ——————————
 
-sn_push_press + sn_balance + ohs
-	3/2+2+2 @ 40
+front_squat + jerk
+	2/2+2 @ 42
+	2/2+2 @ 51
+	2/2+2 @ 60
+	2/1+2 @ 64
