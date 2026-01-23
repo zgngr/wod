@@ -12,6 +12,9 @@ snatch_pull
 sots_press
 	4/8
 
+t-plank
+	3/16
+
 ——————————
 
 clean
@@ -29,8 +32,8 @@ back_squat
 half_squat_hold
 	4/30sec
 
-chicken_jump
-	4/8
+barbell_jump
+	4/4
 
 ——————————
 
