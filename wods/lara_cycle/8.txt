@@ -32,5 +32,3 @@ half_squat_hold
 
 box_jump
 	3/5
-
-——————————
