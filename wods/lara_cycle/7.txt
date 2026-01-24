@@ -1,14 +1,12 @@
-snatch + hang_snatch
-	1/1+2 @ 40
-	1/1+2 @ 45
-	2/1+2 @ 50
-	
-	2/1+1 @ 52
-	3/1+1 @ 55
+snatch_from_blocks
+	3/3   @ 40
+	2/2   @ 45
+	2/2   @ 50
+	2-3/1 @ 55
 
-snatch_pull
-	2/3 @ 62
-	3/2 @ 70
+back_squat
+	1/4 @ 85
+	3/4 @ 102
 
 sots_press
 	4/8
@@ -26,9 +24,7 @@ clean
 	2/3 @ 68
 	3/3 @ 73
 
-back_squat
-	1/4 @ 85
-	3/4 @ 102
+
 
 half_squat_hold
 	4/30sec
