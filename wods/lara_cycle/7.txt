@@ -24,8 +24,6 @@ clean
 	2/3 @ 68
 	3/3 @ 73
 
-
-
 half_squat_hold
 	4/30sec
 
