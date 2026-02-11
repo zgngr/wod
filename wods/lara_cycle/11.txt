@@ -1,6 +1,8 @@
 clean + jerk
 	70, 76, 80, 84, 89
 
+weighted_plank 3*45sec
+
 ——————————
 
 snatch + ohs
