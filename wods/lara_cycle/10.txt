@@ -1,0 +1,26 @@
+snatch
+	50, 55, 58, 62, 64, 68
+
+back_squat
+	1/3 @ 96
+	4/3 @ 102
+	1/2 @ 108
+
+Acc: pull_ups 4*5; hollow_hold 3*35sec;
+
+——————————
+
+power_clean + jerk
+	2/2+2 @ 45
+	2+2 @ 53
+
+	2+1 @ 60
+	2+1 @ 65
+
+clean_pull
+	1/3 @ 80
+	2/3 @ 87
+  2-3/3 @ 96
+
+  Acc: barbell row 4/6
+  russian_twists
