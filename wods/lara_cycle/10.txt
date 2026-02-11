@@ -22,5 +22,5 @@ clean_pull
 	2/3 @ 87
   2-3/3 @ 96
 
-  Acc: barbell row 4/6
+  Acc: barbell row 4/5
   russian_twists
