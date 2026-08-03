@@ -93,3 +93,10 @@ In Olympic weightlifting, **complexes** (multiple lifts in one sequence) are usu
 | Heavy / Competition-Specific | **7.5–8.5** |
 
 
+### **Chinese System**
+
+| Intensity      | Volume     |
+| ---------------| -----------|
+| Week 1: 80-85% | 5x2-3 reps |
+| Week 2: 90-95% | 3x1-2 reps |
+| Week 3: 70-75% | 5x3 reps   |
