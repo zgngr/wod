@@ -22,8 +22,8 @@ clean + front squat
     2/1+1 @ 77
     1-2/1+1 @ 81
 
-clean sots press
-    4/5 @ 30
+strict press
+    4/5 @ 40~45
 
 *********************************
 
