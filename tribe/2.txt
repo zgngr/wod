@@ -22,14 +22,8 @@ clean + front squat
     2/1+1 @ 77
     1-2/1+1 @ 81
 
-*********************************
-
-WOD
-24 min
-8 devils press (left)
-16 box jump overs
-8 devils press (right)
-32 double unders
+clean sots press
+    4/5 @ 30
 
 *********************************
 
@@ -40,7 +34,19 @@ back squat
     5/3 @ 104
 
 Acc: 4 rounds
-5 pull ups
 5 box jumps
+35 sec wall sit
+
+*********************************
+
+4 rounds
+5 pull ups(+5kg)
+
+WOD
+24 min
+8 devils press (left)
+16 box jump overs
+8 devils press (right)
+32 double unders
 
 *********************************
