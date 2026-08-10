@@ -22,6 +22,9 @@ clean + front squat
     2/1+1 @ 77
     1-2/1+1 @ 81
 
+rdl + shrugs
+    4/4+4 @ 70,80,80,80
+
 strict press
     4/5 @ 40~45
 
@@ -32,6 +35,9 @@ snatch push press
 
 back squat
     5/3 @ 104
+
+sots press
+    3/7 @ 34
 
 Acc: 4 rounds
 5 box jumps
