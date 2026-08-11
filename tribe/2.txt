@@ -30,8 +30,9 @@ strict press
 
 *********************************
 
-snatch push press
-    3/3 @ 53, 56, 60
+snatch push press + ohs
+    3/2+1 @ 53, 56, 60
+    3/1+1 @ 65, 70, 70
 
 back squat
     5/3 @ 104
