@@ -17,8 +17,10 @@ Core: 3 rounds
 *********************************
 
 clean + jerk
-    2+2 @ 68
-    2+1 @ 72, 72, 72, 72
+    2+2 @ 68, 72, 72, 72, 72
+
+clean
+    1 @ 77, 81, 86
 
 deficit snatch deadlift + shrugs
     4/4+4 @ 70
@@ -31,4 +33,7 @@ Acc: 4 rounds
 back squat
     5/1 @ 117
 
-WOD
+WOD: 10 rounds for time
+8 box jump overs
+8 dumbell clean jerk
+8 toes to bar
