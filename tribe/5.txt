@@ -2,13 +2,10 @@
 
 snatch
     2,2 @ 53, 56
-    1,1,1 @ 60, 60, 60
+    1,1,1,1 @ 60, 63, 67, 70
 
 back squat
     3/2 @ 117
-
-seated press
-    4/4 @ 44
 
 Core:
 25-20-15-10 leg raise
@@ -17,12 +14,14 @@ Core:
 *********************************
 
 *notes
-    wider clean grip
-    "elbow punch" during clean turnover
+    feet out during setup
     slow! dip during jerk
 
 clean + jerk
     3, 3, 2, 2, 2 @ 68, 72, 77, 77, 77
+
+clean
+    1 @ 81, 86, 90
 
 clean pull + shrugs
     3, 2, 2, 2, 2 @ 86, 90, 95, 95, 95
@@ -38,3 +37,10 @@ snatch
 
 front squat
     5/2 @ 75
+
+seated press
+    4/4 @ 44
+
+Core: For time
+50-40-30-20-10 mountain climbers
+10-20-30-40-50 shoulder taps
