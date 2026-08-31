@@ -36,8 +36,8 @@ clean pull + shrugs
     3, 2, 2, 2, 2 @ 86, 90, 95, 95, 95
 
 Acc: 4 rounds
+10 back extensions
 5 pull ups
-5 dips
 
 *********************************
 
