@@ -32,9 +32,6 @@ clean + jerk
 clean
     1 @ 81, 86, 90
 
-clean pull + shrugs
-    3, 2, 2, 2, 2 @ 86, 90, 95, 95, 95
-
 Acc: 4 rounds
 10 back extensions
 5 pull ups
