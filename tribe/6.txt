@@ -18,10 +18,10 @@ push press + jerk
     5/1+1 @ 63
 
 jerk
-    3/1 @ 68, 72, 77
+    1,1,1 @ 68, 72, 77
 
-front squat
-    5/2 @ 75
+clean pull + shrugs
+    3, 3, 2 @ 90, 95, 100
 
 Core: 3 rounds
 25/25 flutter kicks
@@ -29,11 +29,13 @@ Core: 3 rounds
 
 *********************************
 
+ohs
+    3,3 @ 50, 55
+    2,2 @ 60, 65
+    1,1 @ 70, 74
+
 front squat
     3, 3, 3 @ 90, 95, 100
-
-clean pull + shrugs
-    3, 3, 2 @ 90, 95, 100
 
 Acc: 4 rounds
 5 pull ups(+7kg)
@@ -41,9 +43,9 @@ Acc: 4 rounds
 
 *********************************
 
-ohs
-    3/3 @ 50, 55, 60
-    3/1 @ 65, 70, 74
+6 rounds
+6 dumbell bench press
+6 barbell row
 
 WOD
 14-12-10-8-6-4-2 
