@@ -1,0 +1,48 @@
+*********************************
+
+block snatch
+    2,2,1,1,1,1 @ 50, 53, 56, 60, 60, 60
+
+snatch
+    1,1,1,1 @ 56, 60, 63, 67
+
+back squat
+    3/1 @ 123
+
+Core:
+25-20-15-10 leg raise
+*20/20 seconds side plank after every round
+
+*********************************
+
+push press + jerk
+    5/1+1 @ 63
+
+jerk
+    3/1 @ 68, 72, 77
+
+front squat
+    5/2 @ 75
+
+30-24-18-12-6 ring rows
+*15 hanging l-sit raises after every round
+
+*********************************
+
+front squat
+    3, 3, 3 @ 90, 95, 100
+
+clean pull + shrugs
+    3, 3, 2 @ 90, 95, 100
+
+Acc: 4 rounds
+5 pull ups(+7kg)
+5 lu raises
+
+*********************************
+
+ohs
+    3/3 @ 50, 55, 60
+    3/1 @ 65, 70, 74
+
+WOD
