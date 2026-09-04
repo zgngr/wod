@@ -14,11 +14,14 @@ back squat
 
 *********************************
 
-push press + jerk
-    5/1+1 @ 63
+jerk
+    5/2 @ 63
 
 jerk
     1,1,1 @ 68, 72, 77
+
+push press
+    3/3 @ 63
 
 clean pull + shrugs
     3, 3, 2 @ 90, 95, 100
