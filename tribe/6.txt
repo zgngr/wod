@@ -1,11 +1,39 @@
 *********************************
 
+jerk
+    5/2 @ 63
+    1,1,1 @ 68, 72, 77
+
+push press
+    3/3 @ 63
+
+front squat
+    3/3 @ 75
+
+Acc: 4 rounds
+8 deficit push ups
+8/8 gorilla rows
+
+*********************************
+
 back squat
     3/1 @ 123
 
-block snatch
-    2, 2, 2, 2 @ 50, 50, 53, 53
-    1, 1, 1, 1 @ 56, 56, 60, 60
+Acc: 4 rounds
+5 pull ups(+7kg)
+5 lu raises
+
+WOD
+14-12-10-8-6-4-2 
+    calorie row
+    *0.5 box jumps
+
+********************************
+
+ohs
+    3,3 @ 50, 55
+    2,2 @ 60, 65
+    1,1 @ 70, 74
 
 sots press
     4/5 @ 35
@@ -16,22 +44,6 @@ Core: 3 rounds
 
 *********************************
 
-jerk
-    5/2 @ 63
-    1,1,1 @ 68, 72, 77
-
-front squat
-    3/3 @ 75
-
-push press
-    3/3 @ 63
-
-Acc: 4 rounds
-5 pull ups(+7kg)
-5 lu raises
-
-********************************
-
 snatch
     2,2,1,1 @ 56, 60, 63, 67
 
@@ -41,14 +53,3 @@ deficit snatch pull + shrugs
 Core:
 25-20-15-10 leg raise
 *20/20 seconds side plank after every round
-
-*********************************
-
-6 rounds
-6 dumbell bench press
-6 barbell row
-
-WOD
-14-12-10-8-6-4-2 
-calorie row
-burpees over row
