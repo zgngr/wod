@@ -15,22 +15,34 @@ clean + jerk
 clean
     1, 1, 1, 1 @ 81, 86, 90, 95
 
+clean pull + shrugs
+    3,3,3 @ 90, 95, 100
+
+Core: 3 rounds
+15/15 medicine ball russian twists
+25 seconds hollow hold
+
+Mobility
+hip flexer
+
 *********************************
 
-snatch
-    2/3 @ 40
-    2/2 @ 45
-    2/2 @ 50
-    2 @ 53
-    2/1 @ 56
-    1 @ 60
-    1-2/1 @ 63
+push press
+    3/3 @ 63
 
-    1,1,1 @ 67, 70, 74
+jerk
+    5/2 @ 63
+    1,1,1 @ 68, 72, 77
+
+front squat
+    3/3 @ 75
 
 *********************************
 
 back squat
     max out
 
-WOD
+20-18-16-14-12-10
+alternating DB snatch
+push ups
+lunges
