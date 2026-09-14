@@ -23,21 +23,28 @@ Core: 3 rounds
 25 seconds hollow hold
 
 Mobility
-hip flexer
+    hip flexer
 
 *********************************
+
+clean + jerk
+    2+2 @ 45, 45, 54
+    1+1 @ 63, 63, 68, 72, 72, 77, 81, 81
+
+clean
+    90, 94
 
 push press
     3/3 @ 63
 
-jerk
-    5/2 @ 63
-    1,1,1 @ 68, 72, 77
+Core: 4 rounds
+    10/10 barbell side bands
+    30 seconds plank after every round
 
-front squat
-    3/3 @ 75
+Mobility
+    90/90 work
 
-*********************************
+***************+******************
 
 back squat
     max out
@@ -46,3 +53,6 @@ back squat
 alternating DB snatch
 push ups
 lunges
+
+Mobility
+    pancake
