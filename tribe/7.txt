@@ -47,12 +47,28 @@ Mobility
 ***************+******************
 
 back squat
-    max out
+    5 @ 60
+    3 @ 85
+    2 @ 105
+    1 @ 117, 125, 130, 135, 137
+
+snatch
+    2,2,2,2 @ 50, 53, 56, 58
+    2,2 @ 60, 60
+
+seated press
+    4/4 @ 43
+
+ACC:
+5/5 pull ups(+8kg)
+5/5 lu raises
+
+Mobility
+    pancake
+
+***************+******************
 
 20-18-16-14-12-10
 alternating DB snatch
 push ups
 lunges
-
-Mobility
-    pancake
