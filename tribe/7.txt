@@ -75,3 +75,9 @@ box jumps
 alternating DB snatch
 push ups
 lunges
+
+ACC:
+    3 rounds
+    left copenhag plank 30 sec
+    plank 30 sec
+    right copenhag plank 30 sec
