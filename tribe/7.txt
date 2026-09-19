@@ -68,13 +68,12 @@ back squat
     2 @ 105
     1 @ 117, 125, 130, 135, 137
 
-box jumps
-    5/5
+block snatch
+    3 @ 40, 40, 42, 42, 42
+    2 @ 50, 50, 53, 53
+    1 @ 56, 56, 56
 
-20-18-16-14-12-10
-alternating DB snatch
-push ups
-lunges
+wod
 
 ACC:
     3 rounds
