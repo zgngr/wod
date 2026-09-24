@@ -49,10 +49,10 @@ box kettlebell stuff
 ohs
     3,3 @ 50, 55
     2,2 @ 60, 65
-    1,1 @ 70, 74
+    1,1 @ 70, 75
 
 sots press
-    4/5 @ 35
+    4/3 @ 40
 
 bulgarian split squats
     4/7
