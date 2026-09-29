@@ -59,3 +59,15 @@ Mobility:
 pancake
 
 *********************************
+
+snatch
+    3 @ 53
+    2 @ 56, 56, 60, 60
+    1 @ 63, 67
+
+front squat
+    4/2 @ 75
+
+Core: For time
+20-15-10-5 hanging l-sit raises
+*20-25 seconds hollow hold after every round
