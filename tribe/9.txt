@@ -69,8 +69,8 @@ snatch
     2 @ 56, 56, 60, 60
     1 @ 63, 67
 
-front squat
-    4/2 @ 75
+front squat + dips
+    4/2+2 @ 75
 
 Core: For time
 20-15-10-5 hanging l-sit raises
