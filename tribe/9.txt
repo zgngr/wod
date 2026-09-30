@@ -59,9 +59,6 @@ ACC:
     plank 30 sec
     right copenhag plank 30 sec
 
-Mobility:
-pancake
-
 *********************************
 
 snatch
@@ -75,3 +72,6 @@ front squat + dips
 Core: For time
 20-15-10-5 hanging l-sit raises
 *20-25 seconds hollow hold after every round
+
+Mobility:
+pancake
