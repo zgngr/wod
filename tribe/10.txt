@@ -25,11 +25,10 @@ clean pull + clean + jerk
 clean
     82, 86
 
-deficit snatch deadlift + shrugs
-    4+4 @ 60, 65, 70, 75
-
-bulgarian split squats
-    4/7
+clean pull + shrugs
+    3+3 @ 90, 95
+    2+2 @ 100
+    1+1 @ 104 
 
 ACC:
 3 rounds
