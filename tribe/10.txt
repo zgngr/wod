@@ -5,15 +5,12 @@ snatch
     2 @ 56, 56, 60, 60
     1 @ 63, 67, 72*
 
-back squat
-    5/3 @ 98
+
 
 barbell row
     5/5 @ 55
 
-Core: For time
-15-20-25-30 weighted crunch with plate
-30-25-20-15 seconds hollow hold
+
 
 *********************************
 
@@ -54,5 +51,19 @@ rowerg
 Accessory: 3 rounds
 10/10-12/12 dumbbell concentration curl
 15-20 banded push down
+
+*********************************
+
+snatch
+    3 @ 53
+    2 @ 56, 56, 56
+    1 @ 60, 63, 67
+
+back squat
+    5/3 @ 98
+
+Core: For time
+15-20-25-30 weighted crunch with plate
+30-25-20-15 seconds hollow hold
 
 *********************************
