@@ -5,34 +5,16 @@ snatch
     2 @ 56, 56, 60, 60
     1 @ 63, 67, 72*
 
-
-
 barbell row
     5/5 @ 55
 
-
-
-*********************************
-
-clean pull + clean + jerk
-    1+1+1 @
-        54, 63, 68
-        72, 72, 72, 77, 77
-
-clean
-    82, 86
-
-clean pull + shrugs
-    3+3 @ 90, 95
-    2+2 @ 100
-    1+1 @ 104 
-
-ACC:
-3 rounds
-left copenhag plank 30 sec
-right copenhag plank 30 sec
+back squat
+    5/3 @ 98
 
 *********************************
+
+jerk balance
+    4 @ 40
 
 paused jerk + jerk
     1+1 @ 
@@ -43,27 +25,15 @@ paused jerk + jerk
 jerk
     1 @ 68, 72, 77
 
+Core: French
+
+*********************************
+
 WOD:
 24-20-16-12-8-4 cals
 skierg
 rowerg
 
-Accessory: 3 rounds
-10/10-12/12 dumbbell concentration curl
-15-20 banded push down
-
-*********************************
-
-snatch
-    3 @ 53
-    2 @ 56, 56, 56
-    1 @ 60, 63, 67
-
-back squat
-    5/3 @ 98
-
 Core: For time
 15-20-25-30 weighted crunch with plate
 30-25-20-15 seconds hollow hold
-
-*********************************
