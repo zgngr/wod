@@ -53,3 +53,7 @@ Core: For time
 Strength: EMOM 12 min.
 odd: 12-12-12-10-10-10 dumbbell bench press
 even: 4-8 strict pull ups (2-3 pull up negatives)
+
+Core: 3 rounds
+10 hollow rocks
+20/20 flutter kicks
