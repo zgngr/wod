@@ -8,28 +8,15 @@ snatch
     2 @ 56, 56, 56
     1 @ 60, 63, 67
 
-snatch pull + shrugs
-    3+3 @ 70, 74, 77
-
-Core: 3 rounds
-15-20 leg raises
-15/15-20/20 medicine ball russian twists
-
+sots press
+    4/4 @ 40
+    
 *********************************
 
-back squat
-    5/3 @ 98
-
-WOD
-
-Mobility
-
-*********************************
-
-clean pull + clean + jerk
-    1+1+1 @
-        54, 63, 68
-        72, 72, 72, 77, 77
+clean + jerk
+    2+2 @ 45,  50, 54
+    1+2 @ 60, 60, 63, 68, 70. 72
+    1+1 @ 74, 77
 
 clean
     82, 86
@@ -41,6 +28,27 @@ clean pull + shrugs
 
 *********************************
 
-4 rounds 
+paused jerk + jerk
+    1+1 @ 
+        45, 45, 
+        54, 54,
+        63, 63, 63, 63
+
+jerk
+    1 @ 68, 72, 77
+
+push press
+    3 @ 63, 63, 63
+
+4 rounds
 10 hyper extension @ 30
 10 gakk squats
+
+*********************************
+
+back squat
+    5/3 @ 98
+
+WOD:
+21-18-15-12-9-6-3 cals rowerg
+8 box jump
