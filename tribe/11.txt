@@ -29,6 +29,10 @@ clean pull + shrugs
     2+2 @ 100
     1+1 @ 104 
 
+Core: 3 rounds
+15/15 medicine ball russian twists
+25 seconds hollow hold
+
 *********************************
 
 paused jerk + jerk
@@ -49,6 +53,14 @@ push press
 
 *********************************
 
+hang snatch
+    2 @ 50, 53, 56
+    1 @ 60, 60, 60
+
+snatch
+    2 @ 56, 56, 56
+    1 @ 60, 63, 67
+
 WOD:
 21-18-15-12-9-6-3 cals rowerg
-8 box jump
+8 burpee over row
