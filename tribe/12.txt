@@ -1,26 +1,5 @@
 *********************************
 
-paused jerk + jerk
-    1+1 @ 
-        45, 45, 
-        54, 54,
-        63, 63, 63, 63
-
-jerk
-    1 @ 68, 72, 77
-
-back squat
-    5/2 @ 110
-    
-seated press
-    4/4 @ 43
-
-Core:
-25-20-15-10 leg raise
-*20/20 seconds copenhagen plank
-
-*********************************
-
 clean + jerk 
     1+2 @ 68, 68, 72, 72
     1+1 @ 77, 77, 81, 81
@@ -34,5 +13,21 @@ inverted row
 Core:
 25-20-15-10 leg raise
 *20/20 seconds copenhagen plank
+
+*********************************
+
+snatch
+    3 @ 53
+    2 @ 56, 56, 58, 58
+    1 @ 60, 63, 67
+
+back squat
+    5/2 @ 110
+
+4 rounds
+10 hyper extension @ 30
+:30 squat hold
+
+Mobility
 
 *********************************
