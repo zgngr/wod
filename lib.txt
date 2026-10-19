@@ -64,6 +64,11 @@ CORE: 3 rounds
 :20 hollow hold
 :30 rest!
 
+Strength: EMOM 12
+odds  - 12-12-12-10-10-10 dumbbell bench press
+evens - 4~8 strict pull ups
+
+
 ** SQUAT SCHEME
 1.1 BS – 4/3 @ 70%
 1.2 FS – 4/2 @ 70%
