@@ -93,3 +93,141 @@ evens - 4~8 strict pull ups
 6.1 BS – 3/1 @ 95%
 6.2 FS – 5/2 @ 70%
 6.3 BS – 1/1 @ MAX%
+
+---------------------
+
+The **OLY WOD** program includes squats (primarily Back Squat and Front Squat) across the weeks. 
+Below is a breakdown of the squat volume and intensity per week as detailed in the training document:
+
+  * **Week 1 (Workout 2):**    
+      * **Back Squat (1RM of BS):** Medium Intensity — 50% 2 sets / 5 reps, 60% 3 sets / 5 reps.
+      * **Front Squat (1RM of C\&J):** Medium Intensity — 50% 2 sets / 6 reps, 60% 2 sets / 6 reps, 70% 4 sets / 6 reps.
+
+  * **Week 2 (Workout 1 & 2):**
+    
+      * **Front Squat (1RM of C\&J):** Heavy Intensity — 70% 3 reps, 80% 3 reps, 90% 3 reps, 100% 3 sets / 3 reps.
+      * **Pause Back Squat (1RM of BS):** Medium Intensity — 60% 2 sets / 4 reps, 70% 2 sets / 3 reps.
+
+  * **Week 3 (Workout 2):**
+    
+      * **Back Squat (1RM of BS):** Challenging Intensity — 80% 3 sets / 4 reps.
+
+  * **Week 4 (Workout 1):**
+    
+      * **Front Squat (1RM of C\&J):** Challenging Intensity — 70% 3 reps, 80% 3 reps, 90% 3 sets / 3 reps.
+
+  * **Week 5 (Workout 2):**
+    
+      * **Pause Back Squat (1RM of BS):** Challenging Intensity — 60% 3 reps, 75% 4 sets / 3 reps.
+
+  * **Week 6 (Workout 1):**
+    
+      * **Front Squat (1RM of C\&J):** Heavy Intensity — 70% 3 reps, 80% 3 reps, 90% 3 reps, 100% 3 sets / 3 reps.
+
+  * **Week 7 (Workout 2):**
+    
+      * **Back Squat (1RM of BS):** Heavy Intensity — 70% 4 reps, 85% 3 sets / 4 reps.
+
+  * **Week 8 (Workout 1):**
+    
+      * \*\*Front SquHere is a breakdown of the squat volume and intensity per week from the document:
+
+  * **Week 1:**
+    
+      * **Back Squat:** Medium intensity — 50% for 2 sets of 5 reps, 60% for 3 sets of 5 reps.
+      * **Front Squat:** Medium intensity — 50% for 2 sets of 6 reps, 60% for 2 sets of 6 reps, 70% for 4 sets of 6 reps.
+
+  * **Week 2:**
+    
+      * **Front Squat:** Heavy intensity — 70% for 3 reps, 80% for 3 reps, 90% for 3 reps, 100% for 3 sets of 3 reps.
+      * **Pause Back Squat:** Medium intensity — 60% for 2 sets of 4 reps, 70% for 2 sets of 3 reps.
+
+  * **Week 3:**
+    
+      * **Back Squat:** Challenging intensity — 80% for 3 sets of 4 reps.
+
+  * **Week 4:**
+    
+      * **Front Squat:** Challenging intensity — 70% for 3 reps, 80% for 3 reps, 90% for 3 sets of 3 reps.
+
+  * **Week 5:**
+    
+      * **Pause Back Squat:** Challenging intensity — 60% for 3 reps, 75% for 4 sets of 3 reps.
+
+  * **Week 6:**
+    
+    \*| Week | Exercise | Intensity | Sets & Reps / Load |
+    | :--- | :--- | :--- | :--- |
+    | **Week 1** | Back Squat | Medium | 50% (2×5), 60% (3×5) |
+    | **Week 1** | Front Squat | Medium | 50% (2×6), 60% (2×6), 70% (4×6) |
+    | **Week 2** | Front Squat | Heavy | 70% × 3, 80% × 3, 90% × 3, 100% (3×3) |
+    | **Week 2** | Pause Back Squat | Medium | 60% (2×4), 70% (2×3) |
+    | **Week 3** | Back Squat | Challenging | 80% (3×4) |
+    | **Week 4** | Front Squat | Challenging | 70% × 3, 80% × 3, 90% (3×3) |
+    | **Week 5** | Pause Back Squat | Challenging | 60% × 3, 75% (4×3) |
+    | **Week 6** | Front Squat | Heavy | 70% × 3, 80% × 3, 90% × 3, 100% (3×3) |
+    | **Week 7** | Back Squat | Heavy | 70% × 4, 85% (3×4) |
+    | **Week 8** | Front Squat | Heavy | 90% (3×2) |
+    | \*\*| Week | Exercise | Intensity | Prescribed Load & Volume |
+    | :--- | :--- | :--- | :--- |
+    | **Week 1** | Back Squat | Medium | 50% 2 sets / 5 reps, 60% 3 sets / 5 reps |
+    | | Front Squat | Medium | 50% 2 sets / 6 reps, 60% 2 sets / 6 reps, 70% 4 sets / 6 reps |
+    | **Week 2** | Front Squat | Heavy | 70% 3 reps, 80% 3 reps, 90% 3 reps, 100% 3 sets / 3 reps |
+    | | Pause Back Squat | Medium | 60% 2 sets / 4 reps, 70% 2 sets / 3 reps |
+    | **Week 3** | Back Squat | Challenging | 80% 3 sets / 4 reps |
+    | **Week 4** | Front Squat | Challenging | 70% 3 reps, 80% 3 reps, 90Here is the squat volume and intensity data for each week from the program:
+
+  * **Week 1:**
+    
+      * Back Squat: Medium intensity (50% 2×5, 60% 3×5)
+      * Front Squat: Medium intensity (50% 2×6, 60% 2×6, 70% 4×6)
+
+  * **Week 2:**
+    
+      * Front Squat: Heavy intensity (70% 3, 80% 3, 90% 3, 100% 3×3)
+      * Pause Back Squat: Medium intensity (60% 2×4, 70% 2×3)
+
+  * **Week 3:**
+    
+      * Back Squat: Challenging intensity (80% 3×4)
+
+  * **Week 4:**
+    
+      * Front Squat: Challenging intensity (70% 3, 80% 3, 90% 3×3)
+
+  * **Week 5:**
+    
+      * Pause Back Squat: Challenging intensity (60% 3, 75% 4×3)
+
+  * **Week 6:**
+    
+      * Front Squat: Heavy intensity (70% 3, 80% 3, 90% 3, 100% 3×3)
+
+  * **Week 7:**
+    
+      * Back Squat: Heavy intensity (70% 4, 85% 3×4)
+
+  * **Week 8:**
+    
+      * Front Squat: Heavy intensity (90% 3×2)
+
+  * **Week 9:**
+    
+      * Back Squat: Heavy intensity (70% 4, 80% 4, 85% 4×4, 90% 4)
+
+  * **Week 10:**
+    
+      * Front Squat: Heavy intensity (70% 2, 80% 2, 90% 2, 100% 2, 110% 2)
+
+  * **Week 11:**
+    
+      * Back Squat: Heavy intensity (70% 2, 80% 2, 90% 2, 95% 2)
+      * Front Squat: Heavy intensity (70% 3, 80% 3, 90% 3, 100% 3, 105% 3, 110% 3)
+
+  * **Week 12:**
+    
+      * Back Squat: Challenging intensity (70% 2×3)
+
+  * **Maxout / Competition Week:**
+    
+      * Back Squat: Light intensity (up to 50% 2×4 in Workout 1, up to 40% 2×3 in Workout 2)
