@@ -36,6 +36,9 @@ front squat
     6 @ 45, 45, 54, 54
     6 @ 63, 63, 63, 63
 
+sots press
+    3/6 @ 30
+
 Core: For time
 20-15-10-5 hanging l-sit raises
 *20-25 seconds copenhagen plank
