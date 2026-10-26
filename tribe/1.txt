@@ -11,7 +11,7 @@ Core: 3 rounds
 
 *********************************
 
-power clean + jerk
+power clean + push press
     4 @ 45, 45
     3 @ 54, 54, 54
     2 @ 63, 63
