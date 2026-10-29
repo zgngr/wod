@@ -43,7 +43,7 @@ weighted deadbugs 8X8
 
 Strength: EMOM 12
 odds  - 5-5-5-5-4-4-4  pullups
-evens - 10-10-10-8-8-8 hyperextensions
+evens - 8-8-8-8-8-8 hyperextensions *hold 5sec at last rep
 
 WOD
 

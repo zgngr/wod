@@ -50,7 +50,7 @@ Core: For time
 
 Strength: EMOM 12
 odds  - 12-12-12-10-10-10 dumbbell bench press
-evens - 10-10-10-8-8-8-8 hyperextensions
+evens - 8-8-8-8-8-8 hyperextensions *hold 5sec at last rep
 
 4 rounds
 1,500m BikeErg
