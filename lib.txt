@@ -76,7 +76,7 @@ CORE: For time
 30-25-20-15 weighted crunch with plate
 *30/30 seconds side plank after every round
 
-CORE:
+CORE: 3 rounds
 25 reps seated pike leg lifts
 20sec hollow body hold
 15 reps vups
@@ -86,6 +86,10 @@ Accessory: 3 rounds
 10/10-12/12 weighted shoulder taps
 12-15 banded pull apart
 10/10-12/12 bodyweight split squat
+
+Accessory: 3 rounds
+barbell 21
+10/10-12/12 single arm dumbbell kick back
 
 ** SQUAT SCHEME
 1.1 BS – 4/3 @ 70%
