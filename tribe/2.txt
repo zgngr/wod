@@ -23,9 +23,8 @@ strict press
     4 @ 42, 42
     2 @ 44, 44
 
-Core: For time
-20-15-10-5 hanging l-sit raises
-*20-25 seconds hollow hold after every round
+CORE: 3 rounds
+weighted deadbugs 8X8
 
 *********************************
 
@@ -37,9 +36,6 @@ snatch + ohs
 pause back squat
     4 @ 80, 80
     3 @ 92, 92
-
-CORE: 3 rounds
-weighted deadbugs 8X8
 
 *********************************
 
