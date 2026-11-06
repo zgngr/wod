@@ -2,15 +2,15 @@ block snatch
     3 @ 40, 42, 42, 50, 50, 53, 53
     2 @ 56, 56, 56
 
-snatch
-    2 @ 50, 53, 56
-    1 @ 60, 64, 68
-
 back squat
     4 @ 104, 104, 104, 104
 
 *sots press
     3/6 @ 30
+
+Core: 3 rounds
+15-20 leg raises
+15/15-20/20 medicine ball russian twists
 
 *********************************
 
