@@ -37,6 +37,10 @@ clean + jerk
 clean pull + shrugs
     4+4 @ 72, 72, 81, 81, 81, 81
 
+ACC: 3 rounds
+8 box jumps
+8 deficit push ups
+
 Mobility
 90/90
 
