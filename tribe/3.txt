@@ -14,20 +14,6 @@ Core: 3 rounds
 
 *********************************
 
-ohs
-    3,3 @ 50, 55
-    2,2 @ 60, 65
-    1,1 @ 70, 75
-
-bulgarian split squat
-    3/7
-
-Core: 3 rounds
-20 Raised leg crunches
-20 hollow hold
-
-*********************************
-
 clean + jerk
     2+3 @ 45, 45
     2+2 @ 54, 54, 63, 63
@@ -35,26 +21,27 @@ clean + jerk
     1+1 @ 72, 72, 72, 81, 81
 
 clean pull + shrugs
-    4+4 @ 72, 72, 81, 81, 81, 81
+    4+4 @ 81, 81, 86, 90
 
 ACC: 3 rounds
 8 box jumps
 8 deficit push ups
 
-Mobility
-90/90
+Core: 3 rounds
+20 Raised leg crunches
+20 hollow hold
 
 *********************************
 
-4 rounds    
+4 rounds
 8 hyperextensions *hold 5sec at last rep
-30sec wall sit
+8/8 bulgarian split squat
 
 WOD
-
 1500m bike + 750m row
 1500m bike + 750m row
 1000m bike + 500m row
 1000m bike + 500m row
 
 MOBILITY
+90/90
