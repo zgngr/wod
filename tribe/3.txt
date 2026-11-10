@@ -23,10 +23,6 @@ clean + jerk
 clean pull + shrugs
     4+4 @ 81, 81, 86, 90
 
-ACC: 3 rounds
-8 box jumps
-8 deficit push ups
-
 Core: 3 rounds
 20 Raised leg crunches
 20 hollow hold
@@ -34,14 +30,12 @@ Core: 3 rounds
 *********************************
 
 4 rounds
-8 hyperextensions *hold 5sec at last rep
 8/8 bulgarian split squat
+8 deficit push ups
 
 WOD
-1500m bike + 750m row
-1500m bike + 750m row
-1000m bike + 500m row
-1000m bike + 500m row
+21-18-15-12-9-6-3
+8 box jump
 
 MOBILITY
 90/90
