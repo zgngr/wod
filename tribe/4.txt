@@ -8,19 +8,39 @@ ohs
     2,2 @ 60, 65
     1,1 @ 70, 75
 
+*clean sots press
+    3/6 @ 25
+
+Core: 3 rounds
+25/25 flutter kicks
+25/25 seconds side copenhagen plank
+
 *********************************
 
 push press
-    4 @ 45, 50, 54, 54
+    3 @ 54, 60, 63, 63
+
+jerk from rack
+    2 @ 63, 63, 68
+    1 @ 72
+    2 @ 77
+    1 @ 77
+    1 @ 81, 81
 
 front squat
     3 @ 81, 81, 81
 
-sitting press
-    5 @ 35, 40, 40
-
 *********************************
 
-ACC: 3 rounds
-8 box jumps
-8 deficit push ups
+4 rounds
+8 hyperextensions *hold 5sec at last rep
+8 chest supported upper back rows
+
+WOD
+
+1500m bike + 750m row
+1500m bike + 750m row
+1000m bike + 500m row
+1000m bike + 500m row
+
+MOBILITY
