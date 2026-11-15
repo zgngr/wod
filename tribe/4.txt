@@ -18,15 +18,32 @@ Core: 3 rounds
 
 *********************************
 
-push press
-    3 @ 54, 60, 63, 63
+snatch
+    2 @ 50, 50, 53
+    1 @ 56, 56, 60, 60, 60
 
-jerk from rack
-    2 @ 63, 63, 68
-    1 @ 72
-    2 @ 77
-    1 @ 77
-    1 @ 81, 81
+deficit snatch pull + shrugs
+    3 @ 60, 63, 67, 70
+
+sots press
+    6 @ 30, 33, 35
+
+Mobility
+
+*********************************
+
+clean + fs + jerk
+    1+1+1 @ 63, 68, 72, 72, 77, 77
+
+clean
+    1 @ 82, 82, 82
+
+clean sots press
+    6 @ 25
+
+Core: For time
+15-12-9-6-3 hanging l-sit raises
+*10/10 side crunch after every round
 
 *********************************
 
