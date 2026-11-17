@@ -39,11 +39,11 @@ clean
     1 @ 82, 82, 82
 
 clean sots press
-    6 @ 25
+    6 @ 25, 25, 25
 
 Core: For time
-15-12-9-6-3 hanging l-sit raises
-*10/10 side crunch after every round
+16-12-8-6-4 hanging side crunch
+20sec hollow hold
 
 *********************************
 
