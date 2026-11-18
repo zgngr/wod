@@ -19,7 +19,10 @@ clean from blocks + squat
     3+1 @ 45, 45, 54
     2+1 @ 63, 63, 68, 72, 77, 77
 
-clean pull from blocks + shrugs
+clean
+    1 @ 72, 77, 82, 82
+
+clean pull + shrugs
     3+3 @ 82, 82, 90, 95
 
 Accessory: 3 rounds
