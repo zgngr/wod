@@ -29,6 +29,9 @@ jerk from rack
     1 @ 77
     1 @ 81, 81
 
+front squat
+    3 @ 83, 83, 83, 83
+
 Accessory: 3 rounds
 10-12 dumbbell/plate snow angel raise
 12-15 banded face pull
