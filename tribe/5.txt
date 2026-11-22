@@ -9,13 +9,26 @@ clean + jerk
 pause back squat
     3 @ 78, 98, 98, 98, 98
 
-4 rounds
-30sec wall sit
-8 rep box jump
-
 Core: For time
 16-12-8-6-4 hanging side crunch
 20sec hollow hold
+
+*********************************
+
+snatch
+    2 @ 53, 53, 56, 60, 60
+    1 @ 63, 65, 65
+
+snatch pull + shrugs
+    3 + 3 @ 70, 70, 74, 77
+
+front squat
+    3 @ 83, 83, 83, 83
+    * each round 20/20-25/25 seconds lunge hold
+
+Accessory: 4 rounds
+8 bench dips
+8 rep box jump
 
 *********************************
 
@@ -28,9 +41,6 @@ jerk from rack
     2 @ 77
     1 @ 77
     1 @ 81, 81
-
-front squat
-    3 @ 83, 83, 83, 83
 
 Accessory: 3 rounds
 10-12 dumbbell/plate snow angel raise
